@@ -1,0 +1,667 @@
+[
+    {
+        "result_type": "geos",
+        "result_object": {
+            "location_id": "15363305",
+            "name": "Vallabh Vidyanagar",
+            "latitude": "22.548492",
+            "longitude": "72.92514",
+            "timezone": "Asia/Kolkata",
+            "location_string": "Vallabh Vidyanagar, India",
+            "photo": {
+                "images": {
+                    "small": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    },
+                    "thumbnail": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    },
+                    "original": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    },
+                    "large": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    },
+                    "medium": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    }
+                },
+                "is_blessed": true,
+                "uploaded_date": "2022-09-19T06:13:29-0400",
+                "caption": "",
+                "id": "0",
+                "helpful_votes": "0",
+                "published_date": "2022-09-19T06:13:29-0400",
+                "user": null
+            },
+            "default_options": [
+                {
+                    "key": "overview",
+                    "name": "Vallabh Vidyanagar Overview"
+                },
+                {
+                    "key": "restaurants",
+                    "name": "Restaurants"
+                },
+                {
+                    "key": "things_to_do",
+                    "name": "Things to Do"
+                },
+                {
+                    "key": "lodging",
+                    "name": "Hotels"
+                },
+                {
+                    "key": "vacation_rentals",
+                    "name": "Vacation Rentals"
+                },
+                {
+                    "key": "flights_to",
+                    "name": "Flights"
+                }
+            ],
+            "geo_type": "narrow",
+            "location_subtype": "none",
+            "has_restaurant_coverpage": false,
+            "has_attraction_coverpage": false,
+            "has_curated_shopping_list": false,
+            "show_address": true,
+            "preferred_map_engine": "default",
+            "description": "",
+            "ancestors": [
+                {
+                    "subcategory": [
+                        {
+                            "key": "municipality",
+                            "name": "Municipality"
+                        }
+                    ],
+                    "name": "Anand",
+                    "abbrv": null,
+                    "location_id": "1155996"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "district",
+                            "name": "District"
+                        }
+                    ],
+                    "name": "Anand District",
+                    "abbrv": null,
+                    "location_id": "12385380"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "state",
+                            "name": "State"
+                        }
+                    ],
+                    "name": "Gujarat",
+                    "abbrv": null,
+                    "location_id": "297607"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "country",
+                            "name": "Country"
+                        }
+                    ],
+                    "name": "India",
+                    "abbrv": null,
+                    "location_id": "293860"
+                }
+            ],
+            "parent_display_name": "Anand, Anand District, Gujarat, India",
+            "guide_count": "0"
+        },
+        "scope": "local"
+    },
+    {
+        "result_type": "geo_pages",
+        "result_object": {
+            "location_id": "15363305",
+            "name": "Vallabh Vidyanagar",
+            "latitude": "22.548492",
+            "longitude": "72.92514",
+            "timezone": "Asia/Kolkata",
+            "location_string": "Vallabh Vidyanagar, India",
+            "photo": {
+                "images": {
+                    "small": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    },
+                    "thumbnail": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    },
+                    "original": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    },
+                    "large": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    },
+                    "medium": {
+                        "width": "1500",
+                        "url": "https://static.tacdn.com/img2/mobile/tourism_no_bg_compressed.jpg",
+                        "height": "632"
+                    }
+                },
+                "is_blessed": true,
+                "uploaded_date": "2022-09-19T06:13:29-0400",
+                "caption": "",
+                "id": "0",
+                "helpful_votes": "0",
+                "published_date": "2022-09-19T06:13:29-0400",
+                "user": null
+            },
+            "default_options": [
+                {
+                    "key": "overview",
+                    "name": "Vallabh Vidyanagar Overview"
+                },
+                {
+                    "key": "restaurants",
+                    "name": "Restaurants"
+                },
+                {
+                    "key": "things_to_do",
+                    "name": "Things to Do"
+                },
+                {
+                    "key": "lodging",
+                    "name": "Hotels"
+                },
+                {
+                    "key": "vacation_rentals",
+                    "name": "Vacation Rentals"
+                },
+                {
+                    "key": "flights_to",
+                    "name": "Flights"
+                }
+            ],
+            "geo_type": "narrow",
+            "location_subtype": "none",
+            "has_restaurant_coverpage": false,
+            "has_attraction_coverpage": false,
+            "has_curated_shopping_list": false,
+            "show_address": true,
+            "preferred_map_engine": "default",
+            "geo_page_type": "lodging",
+            "geo_page_name": "Hotels in Vallabh Vidyanagar",
+            "description": "",
+            "ancestors": [
+                {
+                    "subcategory": [
+                        {
+                            "key": "municipality",
+                            "name": "Municipality"
+                        }
+                    ],
+                    "name": "Anand",
+                    "abbrv": null,
+                    "location_id": "1155996"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "district",
+                            "name": "District"
+                        }
+                    ],
+                    "name": "Anand District",
+                    "abbrv": null,
+                    "location_id": "12385380"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "state",
+                            "name": "State"
+                        }
+                    ],
+                    "name": "Gujarat",
+                    "abbrv": null,
+                    "location_id": "297607"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "country",
+                            "name": "Country"
+                        }
+                    ],
+                    "name": "India",
+                    "abbrv": null,
+                    "location_id": "293860"
+                }
+            ],
+            "parent_display_name": "Anand, Anand District, Gujarat, India",
+            "guide_count": "0"
+        },
+        "scope": "local"
+    },
+    {
+        "result_type": "restaurants",
+        "result_object": {
+            "location_id": "3836457",
+            "name": "Mirch Masala (Vallabh Vidyanagar)",
+            "latitude": "22.555107",
+            "longitude": "72.92096",
+            "timezone": "Asia/Kolkata",
+            "location_string": "Vallabh Vidyanagar, India",
+            "is_closed": false,
+            "is_long_closed": false,
+            "photo": {
+                "images": {
+                    "small": {
+                        "width": "150",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/2c/05/2c/mirch-masala-menu.jpg",
+                        "height": "150"
+                    },
+                    "thumbnail": {
+                        "width": "50",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/2c/05/2c/mirch-masala-menu.jpg",
+                        "height": "50"
+                    },
+                    "original": {
+                        "width": "960",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/2c/05/2c/mirch-masala-menu.jpg",
+                        "height": "1280"
+                    },
+                    "large": {
+                        "width": "550",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-p/1d/2c/05/2c/mirch-masala-menu.jpg",
+                        "height": "733"
+                    },
+                    "medium": {
+                        "width": "338",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/2c/05/2c/mirch-masala-menu.jpg",
+                        "height": "450"
+                    }
+                },
+                "is_blessed": false,
+                "uploaded_date": "2021-06-19T09:56:34-0400",
+                "caption": "Mirch Masala Menu",
+                "id": "489424172",
+                "helpful_votes": "0",
+                "published_date": "2021-06-19T09:56:34-0400",
+                "user": {
+                    "user_id": null,
+                    "member_id": "0",
+                    "type": "user"
+                }
+            },
+            "address": "Mota Bazaar",
+            "location_subtype": "none",
+            "has_restaurant_coverpage": false,
+            "has_attraction_coverpage": false,
+            "show_address": false,
+            "preferred_map_engine": "default",
+            "ancestors": [
+                {
+                    "subcategory": [
+                        {
+                            "key": "city",
+                            "name": "City"
+                        }
+                    ],
+                    "name": "Vallabh Vidyanagar",
+                    "abbrv": null,
+                    "location_id": "15363305"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "municipality",
+                            "name": "Municipality"
+                        }
+                    ],
+                    "name": "Anand",
+                    "abbrv": null,
+                    "location_id": "1155996"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "district",
+                            "name": "District"
+                        }
+                    ],
+                    "name": "Anand District",
+                    "abbrv": null,
+                    "location_id": "12385380"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "state",
+                            "name": "State"
+                        }
+                    ],
+                    "name": "Gujarat",
+                    "abbrv": null,
+                    "location_id": "297607"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "country",
+                            "name": "Country"
+                        }
+                    ],
+                    "name": "India",
+                    "abbrv": null,
+                    "location_id": "293860"
+                }
+            ],
+            "parent_display_name": "Vallabh Vidyanagar",
+            "guide_count": "0"
+        },
+        "scope": "local"
+    },
+    {
+        "result_type": "lodging",
+        "result_object": {
+            "location_id": "19141592",
+            "name": "Shree Vallabh Vilas Lords Plaza",
+            "latitude": "24.927324",
+            "longitude": "73.81734",
+            "timezone": "Asia/Kolkata",
+            "location_string": "Nathdwara, India",
+            "is_closed": false,
+            "is_long_closed": false,
+            "photo": {
+                "images": {
+                    "small": {
+                        "width": "150",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/98/3a/ad/getlstd-property-photo.jpg",
+                        "height": "150"
+                    },
+                    "thumbnail": {
+                        "width": "50",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/98/3a/ad/getlstd-property-photo.jpg",
+                        "height": "50"
+                    },
+                    "original": {
+                        "width": "3240",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-o/19/98/3a/ad/getlstd-property-photo.jpg",
+                        "height": "2430"
+                    },
+                    "large": {
+                        "width": "550",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/98/3a/ad/getlstd-property-photo.jpg",
+                        "height": "413"
+                    },
+                    "medium": {
+                        "width": "250",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/98/3a/ad/getlstd-property-photo.jpg",
+                        "height": "188"
+                    }
+                },
+                "is_blessed": true,
+                "uploaded_date": "2019-10-11T16:11:57-0400",
+                "caption": "getlstd_property_photo",
+                "id": "429406893",
+                "helpful_votes": "1",
+                "published_date": "2019-10-11T16:11:57-0400",
+                "user": {
+                    "user_id": null,
+                    "member_id": "0",
+                    "type": "user"
+                }
+            },
+            "address": "NH 162 Ext, Delhi Bazaar Road",
+            "location_subtype": "none",
+            "has_restaurant_coverpage": false,
+            "has_attraction_coverpage": false,
+            "show_address": false,
+            "preferred_map_engine": "default",
+            "ancestors": [
+                {
+                    "subcategory": [
+                        {
+                            "key": "city",
+                            "name": "City"
+                        }
+                    ],
+                    "name": "Nathdwara",
+                    "abbrv": null,
+                    "location_id": "1162444"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "district",
+                            "name": "District"
+                        }
+                    ],
+                    "name": "Rajsamand District",
+                    "abbrv": null,
+                    "location_id": "12413359"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "state",
+                            "name": "State"
+                        }
+                    ],
+                    "name": "Rajasthan",
+                    "abbrv": null,
+                    "location_id": "297665"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "country",
+                            "name": "Country"
+                        }
+                    ],
+                    "name": "India",
+                    "abbrv": null,
+                    "location_id": "293860"
+                }
+            ],
+            "parent_display_name": "Nathdwara",
+            "guide_count": "0"
+        },
+        "scope": "local"
+    },
+    {
+        "result_type": "lodging",
+        "result_object": {
+            "location_id": "678055",
+            "name": "Hotel Vallabh Darshan",
+            "latitude": "24.92893",
+            "longitude": "73.81779",
+            "timezone": "Asia/Kolkata",
+            "location_string": "Nathdwara, India",
+            "is_closed": false,
+            "is_long_closed": false,
+            "photo": {
+                "images": {
+                    "small": {
+                        "width": "150",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/f6/48/48/hotel-vallabh-darshan.jpg",
+                        "height": "150"
+                    },
+                    "thumbnail": {
+                        "width": "50",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/f6/48/48/hotel-vallabh-darshan.jpg",
+                        "height": "50"
+                    },
+                    "original": {
+                        "width": "3216",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/f6/48/48/hotel-vallabh-darshan.jpg",
+                        "height": "2136"
+                    },
+                    "large": {
+                        "width": "550",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/f6/48/48/hotel-vallabh-darshan.jpg",
+                        "height": "365"
+                    },
+                    "medium": {
+                        "width": "250",
+                        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/f6/48/48/hotel-vallabh-darshan.jpg",
+                        "height": "166"
+                    }
+                },
+                "is_blessed": true,
+                "uploaded_date": "2016-04-21T03:22:35-0400",
+                "caption": "Hotel Vallabh Darshan",
+                "id": "183912520",
+                "helpful_votes": "10",
+                "published_date": "2016-04-21T03:22:35-0400",
+                "user": {
+                    "user_id": null,
+                    "member_id": "0",
+                    "type": "user"
+                }
+            },
+            "address": "Chopati Bazar",
+            "location_subtype": "none",
+            "has_restaurant_coverpage": false,
+            "has_attraction_coverpage": false,
+            "show_address": false,
+            "preferred_map_engine": "default",
+            "ancestors": [
+                {
+                    "subcategory": [
+                        {
+                            "key": "city",
+                            "name": "City"
+                        }
+                    ],
+                    "name": "Nathdwara",
+                    "abbrv": null,
+                    "location_id": "1162444"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "district",
+                            "name": "District"
+                        }
+                    ],
+                    "name": "Rajsamand District",
+                    "abbrv": null,
+                    "location_id": "12413359"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "state",
+                            "name": "State"
+                        }
+                    ],
+                    "name": "Rajasthan",
+                    "abbrv": null,
+                    "location_id": "297665"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "country",
+                            "name": "Country"
+                        }
+                    ],
+                    "name": "India",
+                    "abbrv": null,
+                    "location_id": "293860"
+                }
+            ],
+            "parent_display_name": "Nathdwara",
+            "guide_count": "0"
+        },
+        "scope": "local"
+    },
+    {
+        "result_type": "lodging",
+        "result_object": {
+            "location_id": "20317486",
+            "name": "OYO 12131 Vallabh Villas",
+            "latitude": "24.56774",
+            "longitude": "73.71136",
+            "timezone": "Asia/Kolkata",
+            "location_string": "Udaipur, India",
+            "is_closed": false,
+            "is_long_closed": false,
+            "address": "Nr Satyam Shivam",
+            "location_subtype": "none",
+            "has_restaurant_coverpage": false,
+            "has_attraction_coverpage": false,
+            "show_address": false,
+            "preferred_map_engine": "default",
+            "ancestors": [
+                {
+                    "subcategory": [
+                        {
+                            "key": "municipality",
+                            "name": "Municipality"
+                        }
+                    ],
+                    "name": "Udaipur",
+                    "abbrv": null,
+                    "location_id": "297672"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "district",
+                            "name": "District"
+                        }
+                    ],
+                    "name": "Udaipur District",
+                    "abbrv": null,
+                    "location_id": "12413370"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "state",
+                            "name": "State"
+                        }
+                    ],
+                    "name": "Rajasthan",
+                    "abbrv": null,
+                    "location_id": "297665"
+                },
+                {
+                    "subcategory": [
+                        {
+                            "key": "country",
+                            "name": "Country"
+                        }
+                    ],
+                    "name": "India",
+                    "abbrv": null,
+                    "location_id": "293860"
+                }
+            ],
+            "parent_display_name": "Udaipur",
+            "guide_count": "0"
+        },
+        "scope": "local"
+    }
+]

@@ -1,0 +1,1943 @@
+[
+    {
+        "location_id": "23767843",
+        "name": "Hotel Lee Grand",
+        "latitude": "22.548464",
+        "longitude": "72.9245",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Vallabh Vidyanagar, Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Vallabh Vidyanagar Places to Stay",
+        "ranking_position": "1",
+        "ranking_denominator": "6",
+        "ranking": "#1 Best Value of 6 places to stay in Vallabh Vidyanagar",
+        "distance": "0.040988206344915165",
+        "distance_string": null,
+        "bearing": "west",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$13 - $21",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "2f6eea30-3160-4340-be01-0efa21d26e73"
+    },
+    {
+        "location_id": "23766920",
+        "name": "Hotel Lee Grand",
+        "latitude": "22.548687",
+        "longitude": "72.92445",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Vallabh Vidyanagar, Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/75/5a/52/hotel-lee-grand.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/75/5a/52/hotel-lee-grand.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/75/5a/52/hotel-lee-grand.jpg",
+                    "height": "853"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/21/75/5a/52/hotel-lee-grand.jpg",
+                    "height": "683"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/75/5a/52/hotel-lee-grand.jpg",
+                    "height": "367"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2021-11-25T22:49:55-0500",
+            "caption": "",
+            "id": "561338962",
+            "helpful_votes": "0",
+            "published_date": "2021-11-25T22:49:55-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Vallabh Vidyanagar Places to Stay",
+        "ranking_position": "2",
+        "ranking_denominator": "6",
+        "ranking": "#2 Best Value of 6 places to stay in Vallabh Vidyanagar",
+        "distance": "0.04588248881469184",
+        "distance_string": null,
+        "bearing": "west",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$19 - $23",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "c5c7bac9-7fac-4d87-97fd-808d5ec5504d"
+    },
+    {
+        "location_id": "21503310",
+        "name": "Hotel Radha Krishna",
+        "latitude": "22.556381",
+        "longitude": "72.92585",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Vallabh Vidyanagar, Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-l/1c/75/48/7f/facadeentrance.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/1c/75/48/7f/facadeentrance.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "375",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/1c/75/48/7f/facadeentrance.jpg",
+                    "height": "500"
+                },
+                "large": {
+                    "width": "375",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/1c/75/48/7f/facadeentrance.jpg",
+                    "height": "500"
+                },
+                "medium": {
+                    "width": "338",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/1c/75/48/7f/facadeentrance.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2020-12-24T23:36:22-0500",
+            "caption": "Facade/entrance",
+            "id": "477448319",
+            "helpful_votes": "0",
+            "published_date": "2020-12-24T23:36:22-0500",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Vallabh Vidyanagar Places to Stay",
+        "ranking_position": "3",
+        "ranking_denominator": "6",
+        "ranking": "#3 Best Value of 6 places to stay in Vallabh Vidyanagar",
+        "distance": "0.5475496548243116",
+        "distance_string": null,
+        "bearing": "north",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$18 - $20",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "858cd024-0ecc-4c39-9a05-cb14d3fb9fb5"
+    },
+    {
+        "location_id": "16664939",
+        "name": "Humming Bird Hotel & Banquet",
+        "latitude": "22.55419",
+        "longitude": "72.92341",
+        "num_reviews": "7",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Vallabh Vidyanagar, Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/4e/6e/cd/humming-bird-hotel-banquet.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/4e/6e/cd/humming-bird-hotel-banquet.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1377",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/4e/6e/cd/humming-bird-hotel-banquet.jpg",
+                    "height": "900"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/4e/6e/cd/humming-bird-hotel-banquet.jpg",
+                    "height": "359"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/22/4e/6e/cd/humming-bird-hotel-banquet.jpg",
+                    "height": "163"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-03-04T01:43:35-0500",
+            "caption": "",
+            "id": "575565517",
+            "helpful_votes": "0",
+            "published_date": "2022-03-04T01:43:35-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Vallabh Vidyanagar Places to Stay",
+        "raw_ranking": "3.0722618103027344",
+        "ranking_geo": "Vallabh Vidyanagar",
+        "ranking_geo_id": "15363305",
+        "ranking_position": "4",
+        "ranking_denominator": "6",
+        "ranking_category": "hotel",
+        "ranking": "#4 Best Value of 6 places to stay in Vallabh Vidyanagar",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.40931589408913405",
+        "distance_string": null,
+        "bearing": "north",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$46 - $63",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "8a51e7f1-85f9-42c8-8377-c83223e75b36"
+    },
+    {
+        "location_id": "23248977",
+        "name": "Motel Happy Home",
+        "latitude": "22.55005",
+        "longitude": "72.92876",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Vallabh Vidyanagar, Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Vallabh Vidyanagar Places to Stay",
+        "ranking_position": "5",
+        "ranking_denominator": "6",
+        "ranking": "#5 Best Value of 6 places to stay in Vallabh Vidyanagar",
+        "distance": "0.25492813792333485",
+        "distance_string": null,
+        "bearing": "northeast",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$17 - $21",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "82416cd1-fcad-4bbb-a75d-b14d527ec417"
+    },
+    {
+        "location_id": "23519365",
+        "name": "Hotelsilveroak",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Vallabh Vidyanagar, Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Vallabh Vidyanagar Places to Stay",
+        "ranking_position": "6",
+        "ranking_denominator": "6",
+        "ranking": "#6 Best Value of 6 places to stay in Vallabh Vidyanagar",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "6364e8d4-9c70-43f4-87ae-116739b11e66"
+    },
+    {
+        "location_id": "15363305",
+        "ad_position": "inline1",
+        "ad_size": "8X8",
+        "doubleclick_zone": "as.india.gujarat",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "municipality",
+                        "name": "Municipality"
+                    }
+                ],
+                "name": "Anand",
+                "abbrv": null,
+                "location_id": "1155996"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Anand District",
+                "abbrv": null,
+                "location_id": "12385380"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Gujarat",
+                "abbrv": null,
+                "location_id": "297607"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "detail": "0",
+        "page_type": "hotels",
+        "mob_ptype": "app_hotels"
+    },
+    {
+        "location_id": "9885192",
+        "name": "Viz Park Hotel",
+        "latitude": "22.541313",
+        "longitude": "72.929634",
+        "num_reviews": "17",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/07/50/22/viz-park-hotel.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/07/50/22/viz-park-hotel.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/07/50/22/viz-park-hotel.jpg",
+                    "height": "1335"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/07/50/22/viz-park-hotel.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/07/50/22/viz-park-hotel.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2016-09-20T08:33:26-0400",
+            "caption": "",
+            "id": "218583074",
+            "helpful_votes": "0",
+            "published_date": "2016-09-20T08:33:26-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.1550326347351074",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "6",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#6 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.5735999891447643",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$18 - $35",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "9b78d4fa-0fe3-4679-8c4a-869a8e996785"
+    },
+    {
+        "location_id": "24170279",
+        "name": "Hotel Neptune Palace",
+        "latitude": "22.543852",
+        "longitude": "72.93627",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/25/ec/6c/88/caption.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/25/ec/6c/88/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/25/ec/6c/88/caption.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/25/ec/6c/88/caption.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/25/ec/6c/88/caption.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-09-18T02:13:46-0400",
+            "caption": "",
+            "id": "636251272",
+            "helpful_votes": "0",
+            "published_date": "2022-09-18T02:13:46-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "0.7801980399512382",
+        "distance_string": null,
+        "bearing": "southeast",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$21 - $22",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "c254e16a-839c-4615-b0f5-e49fd91f1c3f"
+    },
+    {
+        "location_id": "23794793",
+        "name": "Welcomhotel By ITC Hotels, Guntur",
+        "latitude": "22.5525",
+        "longitude": "72.94326",
+        "num_reviews": "45",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Guntur, Guntur District, Andhra Pradesh",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/ac/6b/90/exterior.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/ac/6b/90/exterior.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/ac/6b/90/exterior.jpg",
+                    "height": "1373"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/ac/6b/90/exterior.jpg",
+                    "height": "378"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/ac/6b/90/exterior.jpg",
+                    "height": "172"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-12-22T02:20:18-0500",
+            "caption": "Exterior",
+            "id": "564947856",
+            "helpful_votes": "0",
+            "published_date": "2021-12-22T02:20:18-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "4.091813564300537",
+        "ranking_geo": "Guntur",
+        "ranking_geo_id": "2285985",
+        "ranking_position": "1",
+        "ranking_denominator": "62",
+        "ranking_category": "hotel",
+        "ranking": "#1 of 62 hotels in Guntur",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.1902504550736148",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$82 - $91",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": [
+                {
+                    "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=23794793&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=243494953&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdySs_i5HWd5Qpz2PU8RRbzXH20IYvs-CAQ6Qxw9TiLWKg&bapid=1&cs=16c27110e108b0cbda2208c7b3c9a4f1f",
+                    "label": "Hotel website",
+                    "type": "url"
+                }
+            ]
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "667c68a3-5107-4812-afe2-89b48a386448"
+    },
+    {
+        "location_id": "1486450",
+        "name": "Madhubhan Resort & Spa",
+        "latitude": "22.536345",
+        "longitude": "72.9404",
+        "num_reviews": "1187",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/cc/35/b1/madhubhan-resort-spa.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/cc/35/b1/madhubhan-resort-spa.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "800",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/cc/35/b1/madhubhan-resort-spa.jpg",
+                    "height": "450"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/cc/35/b1/madhubhan-resort-spa.jpg",
+                    "height": "309"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/cc/35/b1/madhubhan-resort-spa.jpg",
+                    "height": "141"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-07-22T03:03:40-0400",
+            "caption": "",
+            "id": "332150193",
+            "helpful_votes": "24",
+            "published_date": "2018-07-22T03:03:40-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "4.501514911651611",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "1",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#1 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.2869825309384872",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$$",
+        "price": "$101 - $130",
+        "hotel_class": "5.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "6169b872-399e-4f80-9b28-8c370bb106de"
+    },
+    {
+        "location_id": "19391348",
+        "name": "Hotel Darshan Inn",
+        "latitude": "22.540052",
+        "longitude": "72.906715",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Karamsad, Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "1.3138952014118799",
+        "distance_string": null,
+        "bearing": "southwest",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$22 - $27",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "e8d1b028-e909-43b6-a9aa-9f93e6cf81f0"
+    },
+    {
+        "location_id": "10475205",
+        "name": "Hotel Arizona Inn",
+        "latitude": "22.541887",
+        "longitude": "72.94548",
+        "num_reviews": "49",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/4d/8e/97/hotel-arizona-inn.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/4d/8e/97/hotel-arizona-inn.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/4d/8e/97/hotel-arizona-inn.jpg",
+                    "height": "608"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/4d/8e/97/hotel-arizona-inn.jpg",
+                    "height": "334"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/4d/8e/97/hotel-arizona-inn.jpg",
+                    "height": "152"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2016-10-14T12:38:04-0400",
+            "caption": "",
+            "id": "223186583",
+            "helpful_votes": "5",
+            "published_date": "2016-10-14T12:38:04-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.321178913116455",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "4",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#4 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.3773828750456631",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$39 - $42",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "51a7646a-6b43-4809-82eb-84a322715e43"
+    },
+    {
+        "location_id": "23749109",
+        "name": "Hotel Blueivy",
+        "latitude": "22.559696",
+        "longitude": "72.94424",
+        "num_reviews": "2",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/45/47/42/hotel-blueivy.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/45/47/42/hotel-blueivy.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "6048",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/23/45/47/42/hotel-blueivy.jpg",
+                    "height": "4032"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/45/47/42/hotel-blueivy.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/23/45/47/42/hotel-blueivy.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-04-30T06:34:19-0400",
+            "caption": "",
+            "id": "591742786",
+            "helpful_votes": "0",
+            "published_date": "2022-04-30T06:34:19-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.0810794830322266",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "9",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#9 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.4452249777589758",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$32 - $54",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "fc06b294-4773-4720-b9ae-f21ced0c55ac"
+    },
+    {
+        "location_id": "1575730",
+        "name": "OYO 13372 Hotel Laksh Residency",
+        "latitude": "22.554293",
+        "longitude": "72.95155",
+        "num_reviews": "20",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/eb/6d/5f/another-view-from-the.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/eb/6d/5f/another-view-from-the.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "933",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/eb/6d/5f/another-view-from-the.jpg",
+                    "height": "700"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/eb/6d/5f/another-view-from-the.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/eb/6d/5f/another-view-from-the.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2016-12-19T20:54:32-0500",
+            "caption": "Another view from the entrance side, coming in",
+            "id": "233532767",
+            "helpful_votes": "3",
+            "published_date": "2016-12-19T20:54:32-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.058225154876709",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "11",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#11 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.7343373577498533",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$12 - $20",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "5c55b5d4-f4af-4baf-9273-d41c8f38b858"
+    },
+    {
+        "location_id": "15363305",
+        "ad_position": "inline2",
+        "ad_size": "8X8",
+        "doubleclick_zone": "as.india.gujarat",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "municipality",
+                        "name": "Municipality"
+                    }
+                ],
+                "name": "Anand",
+                "abbrv": null,
+                "location_id": "1155996"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Anand District",
+                "abbrv": null,
+                "location_id": "12385380"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Gujarat",
+                "abbrv": null,
+                "location_id": "297607"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "detail": "0",
+        "page_type": "hotels",
+        "mob_ptype": "app_hotels"
+    },
+    {
+        "location_id": "10105986",
+        "name": "Pride Biznotel, Maison Anand",
+        "latitude": "22.54339",
+        "longitude": "72.95298",
+        "num_reviews": "19",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/0e/b6/00/pride-biznotel-maison.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/0e/b6/00/pride-biznotel-maison.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1080",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/0e/b6/00/pride-biznotel-maison.jpg",
+                    "height": "607"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/0e/b6/00/pride-biznotel-maison.jpg",
+                    "height": "309"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/0e/b6/00/pride-biznotel-maison.jpg",
+                    "height": "141"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2020-09-23T00:29:04-0400",
+            "caption": "HOTEL BUILDING",
+            "id": "470726144",
+            "helpful_votes": "0",
+            "published_date": "2020-09-23T00:29:04-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.390624761581421",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "3",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#3 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.81318096217188",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$17 - $29",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "24197139-5c00-4e85-8ec3-479a20961f72"
+    },
+    {
+        "location_id": "20363814",
+        "name": "Hotel Rest & Ride",
+        "latitude": "22.563183",
+        "longitude": "72.95272",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/23/c4/cc/51/caption.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/23/c4/cc/51/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/23/c4/cc/51/caption.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/23/c4/cc/51/caption.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/23/c4/cc/51/caption.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-06-06T23:16:42-0400",
+            "caption": "",
+            "id": "600099921",
+            "helpful_votes": "0",
+            "published_date": "2022-06-06T23:16:42-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "2.033838391678855",
+        "distance_string": null,
+        "bearing": "northeast",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$15 - $16",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "92bce8a1-4513-42ce-83eb-dcb25a74b449"
+    },
+    {
+        "location_id": "20329507",
+        "name": "Nakshatra",
+        "latitude": "22.559162",
+        "longitude": "72.95889",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "2.278924928444157",
+        "distance_string": null,
+        "bearing": "east",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$25",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "ef3a1c03-42d8-403b-9c66-50602989ce28"
+    },
+    {
+        "location_id": "23369731",
+        "name": "OYO 76205 Hotel New Relax",
+        "latitude": "22.558311",
+        "longitude": "72.963066",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "2.5161096633186735",
+        "distance_string": null,
+        "bearing": "east",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$12 - $18",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "a89e11fe-3aba-4363-8b4d-b5e45957b7c0"
+    },
+    {
+        "location_id": "23206431",
+        "name": "Hotel Rama Residency",
+        "latitude": "22.55651",
+        "longitude": "72.963936",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "2.5395906651087508",
+        "distance_string": null,
+        "bearing": "east",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$18 - $40",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "352a2244-440a-4356-9e24-1dc7dc8eaf75"
+    },
+    {
+        "location_id": "1585080",
+        "name": "Hotel Aaram",
+        "latitude": "22.558815",
+        "longitude": "72.96397",
+        "num_reviews": "8",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/54/8d/52/hotel-aaram.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/54/8d/52/hotel-aaram.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/54/8d/52/hotel-aaram.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/54/8d/52/hotel-aaram.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/54/8d/52/hotel-aaram.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2014-08-06T16:15:21-0400",
+            "caption": "A/c super delux",
+            "id": "106204498",
+            "helpful_votes": "0",
+            "published_date": "2014-08-08T12:46:00-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.0321743488311768",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "13",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#13 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "2.5809446468148485",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$11 - $12",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "37088266-517b-4a21-a901-eb6816ca868b"
+    },
+    {
+        "location_id": "17740016",
+        "name": "OYO 29381 Motel Bapa's",
+        "latitude": "22.559675",
+        "longitude": "72.96491",
+        "num_reviews": "2",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/29/e5/38/oyo-29381-motel-bapa.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/29/e5/38/oyo-29381-motel-bapa.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "960",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/19/29/e5/38/oyo-29381-motel-bapa.jpg",
+                    "height": "640"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/29/e5/38/oyo-29381-motel-bapa.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/29/e5/38/oyo-29381-motel-bapa.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-09-08T04:09:27-0400",
+            "caption": "",
+            "id": "422176056",
+            "helpful_votes": "0",
+            "published_date": "2019-09-08T04:09:27-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.0329368114471436",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "12",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#12 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "2.655781148451648",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$11 - $17",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "7cc7e02f-d017-462f-b3f3-c0287b07eb2b"
+    },
+    {
+        "location_id": "1395532",
+        "name": "Hotel Surabhi Regency",
+        "latitude": "22.548267",
+        "longitude": "72.96866",
+        "num_reviews": "106",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/f2/a4/37/hotel-surabhi-regency.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/f2/a4/37/hotel-surabhi-regency.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/f2/a4/37/hotel-surabhi-regency.jpg",
+                    "height": "1328"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/f2/a4/37/hotel-surabhi-regency.jpg",
+                    "height": "365"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/f2/a4/37/hotel-surabhi-regency.jpg",
+                    "height": "166"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2014-11-24T06:28:25-0500",
+            "caption": "Room",
+            "id": "116565047",
+            "helpful_votes": "3",
+            "published_date": "2014-11-24T06:28:25-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.6461243629455566",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "2",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#2 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "2.7800939533495646",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$25 - $31",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "a163e7a0-cf03-4fb9-94c8-68596b9bf321"
+    },
+    {
+        "location_id": "15363305",
+        "ad_position": "inline3",
+        "ad_size": "8X8",
+        "doubleclick_zone": "as.india.gujarat",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "municipality",
+                        "name": "Municipality"
+                    }
+                ],
+                "name": "Anand",
+                "abbrv": null,
+                "location_id": "1155996"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Anand District",
+                "abbrv": null,
+                "location_id": "12385380"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Gujarat",
+                "abbrv": null,
+                "location_id": "297607"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "detail": "0",
+        "page_type": "hotels",
+        "mob_ptype": "app_hotels"
+    },
+    {
+        "location_id": "10054821",
+        "name": "Hotel Sach Regency",
+        "latitude": "22.54813",
+        "longitude": "72.96893",
+        "num_reviews": "13",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/07/08/b6/hotel-sach-regency.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/07/08/b6/hotel-sach-regency.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/07/08/b6/hotel-sach-regency.jpg",
+                    "height": "1820"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/16/07/08/b6/hotel-sach-regency.jpg",
+                    "height": "978"
+                },
+                "medium": {
+                    "width": "253",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/07/08/b6/hotel-sach-regency.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-01-09T05:22:30-0500",
+            "caption": "",
+            "id": "369559734",
+            "helpful_votes": "0",
+            "published_date": "2019-01-09T05:22:30-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.139253854751587",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "7",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#7 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "2.79770995707417",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$19 - $27",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "d0318399-9575-44b3-bb1f-3e7fbc38342b"
+    },
+    {
+        "location_id": "21103413",
+        "name": "OYO 46705 Hotel Rio Inn",
+        "latitude": "22.559479",
+        "longitude": "72.967445",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "2.8072594637790065",
+        "distance_string": null,
+        "bearing": "east",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$36 - $47",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "1d8ba2c5-0dd0-4b76-8a6f-2e61a6a5b2bb"
+    },
+    {
+        "location_id": "21513197",
+        "name": "OYO 13479 Hotel Grand Nakshatra",
+        "latitude": "22.54597",
+        "longitude": "72.97042",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "2.897914030518352",
+        "distance_string": null,
+        "bearing": "east",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$38 - $50",
+        "hotel_class": "5.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "aca8116d-63e2-4e8f-80f0-014fa4471055"
+    },
+    {
+        "location_id": "1164640",
+        "name": "La Casa Inn",
+        "latitude": "22.54658",
+        "longitude": "72.97115",
+        "num_reviews": "88",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/33/98/68/la-casa-inn.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/33/98/68/la-casa-inn.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/33/98/68/la-casa-inn.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/33/98/68/la-casa-inn.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/33/98/68/la-casa-inn.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2015-06-27T13:19:30-0400",
+            "caption": "Beds",
+            "id": "137599080",
+            "helpful_votes": "0",
+            "published_date": "2015-06-27T13:19:30-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.1067609786987305",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "8",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#8 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "2.94242067345071",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$25 - $28",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "6ad25401-62f3-4683-893a-76b8d7b6afce"
+    },
+    {
+        "location_id": "23916160",
+        "name": "Pride Biznotel Maison ,Anand",
+        "latitude": "22.546934",
+        "longitude": "72.97155",
+        "num_reviews": "2",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "2.9926345348358154",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "14",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#14 of 38 hotels in Anand",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "2.9667427436066154",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "3.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$24 - $41",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "4f6f0d12-f5e7-4396-8ab5-77c9e92f96b1"
+    },
+    {
+        "location_id": "3457927",
+        "name": "Neejanand Resort",
+        "latitude": "22.502487",
+        "longitude": "72.94286",
+        "num_reviews": "38",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/02/ce/b2/a6/getlstd-property-photo.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/02/ce/b2/a6/getlstd-property-photo.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/ce/b2/a6/getlstd-property-photo.jpg",
+                    "height": "365"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/ce/b2/a6/getlstd-property-photo.jpg",
+                    "height": "365"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/ce/b2/a6/getlstd-property-photo.jpg",
+                    "height": "365"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2012-08-31T02:14:15-0400",
+            "caption": "getlstd_property_photo",
+            "id": "47100582",
+            "helpful_votes": "17",
+            "published_date": "2012-08-31T02:14:15-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "raw_ranking": "3.225571870803833",
+        "ranking_geo": "Anand",
+        "ranking_geo_id": "1155996",
+        "ranking_position": "5",
+        "ranking_denominator": "38",
+        "ranking_category": "hotel",
+        "ranking": "#5 of 38 hotels in Anand",
+        "subcategory_type": "resort",
+        "subcategory_type_label": "Resort",
+        "distance": "3.377673914249313",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$80",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "e510ee4c-e19c-4b52-9b43-e54222651304"
+    },
+    {
+        "location_id": "20211361",
+        "name": "OYO 37477 D K Guest House",
+        "latitude": "22.578402",
+        "longitude": "72.96893",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "3.4792053816958246",
+        "distance_string": null,
+        "bearing": "northeast",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$22 - $27",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "249a5e51-60aa-45b7-84c6-f41e2b9a91f5"
+    },
+    {
+        "location_id": "16858620",
+        "name": "Humming Bird Hotel & Banquet",
+        "latitude": "22.51221",
+        "longitude": "72.87903",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Anand, Anand District, Gujarat",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "nearby_integrated",
+        "autobroaden_label": "Other places to stay near Vallabh Vidyanagar (24)",
+        "distance": "3.8701312245860473",
+        "distance_string": null,
+        "bearing": "southwest",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$56 - $63",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "fc27b809-0815-4f8f-8b78-5443ece10134"
+    }
+]
