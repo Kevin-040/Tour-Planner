@@ -8,7 +8,7 @@ const Navbar = () => {
   };
   
   return (
-    <nav className='flex justify-between items-center h-20 px-4 absolute top-0 left-0 z-10 w-full text-white bg-transparent'>
+    <nav className='flex justify-between items-center h-20 px-4 absolute top-0 left-0 z-10 w-full text-white bg-slate-700 '>
       <h1>Tour Planner</h1>
       <ul className='hidden md:flex'>
         <li>
@@ -98,20 +98,23 @@ const Navbar = () => {
             </svg>
           </div>
           <ul className=' mb-4'>
-            <li className='border-b-2 border-b-gray-600'>
-              <a href=''>Home</a>
+              <li>
+              <Link to="/">Home</Link>
             </li>
-            <li className='border-b-2 border-b-gray-600'>
-              <a href=''>Destinations</a>
+            <li>
+              <Link to='/dest'>Destinations</Link>
             </li>
-            <li className='border-b-2 border-b-gray-600'>
-              <a href=''>Travel</a>
+            <li>
+              <Link to='/hotel'>Hotels</Link>
             </li>
-            <li className='border-b-2 border-b-gray-600'>
-              <a href=''>Views</a>
+            <li>
+              <Link to='/location'>Locations</Link>
             </li>
-            <li className='border-b-2 border-b-gray-600'>
-              <a href=''>Book</a>
+            <li>
+              <Link to='/login'>Login</Link>
+            </li>
+            <li>
+              <Link to='/signup'>Signup</Link>
             </li>
           </ul>
           <button className='w-full mb-4 btn'>Search</button>

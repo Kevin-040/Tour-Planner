@@ -11,13 +11,14 @@ import Hero from './components/Hero';
 import Selections from './components/Selections';
 import Search from './components/Search';
 import Carousel from './components/Carousel'
+import DateForm from "./components/getDate";
 
 function App() {
 	const user = localStorage.getItem("token");
 	return (
 		<>
+		<BrowserRouter>
 		<Navbar/>
-
 			<Routes>
 				<Route path="/" element={<Start />} />
 				<Route path="/signup" exact element={<Signup />} />
@@ -29,9 +30,11 @@ function App() {
 				<Route path="/sel" element={<Selections/>}/>
 				<Route path="/search" element={<Search/>}/>
 				<Route path="/car" element={<Carousel/>}/>
+				<Route path="/form" element={<DateForm/>}/>
 			</Routes>
 		
 		<Footer/>
+		</BrowserRouter>
 		 </>
 	);
 }
