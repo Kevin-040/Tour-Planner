@@ -1,6 +1,7 @@
 import React, { useState, useEffect} from 'react'
 import axios from 'axios';
-import jdata from "../data.json"
+import ViewMap from '../Map/viewMap';
+import { Link } from 'react-router-dom';
 
 export default function Location(props) {
   
@@ -30,29 +31,35 @@ export default function Location(props) {
     getMyLocationData() ; 
     
 
-  }, []);
+  });
  
  
 
   return (
-    <>
+    <><div className='flex'><div className='flex-1'>
       <h6>Location Data</h6>
-
         <ul>
           {
             locationData.map((element) => {
-              {console.log(element.result_object)}
+              // {console.log(element.result_object)}
               return(<>
               <li>
                 <span><strong>name:</strong> {element.result_object.name}</span>
                 <span><strong>latitude:</strong> {element.result_object.latitude}</span>
                 <span><strong>longitude:</strong> {element.result_object.longitude}</span>
                 <span><strong>location_id:</strong> {element.result_object.location_id}</span>
+                <Link to="/dest" state={{ lat: element.result_object.latitude, lng: element.result_object.longitude }}>
+                  ViewOnMap
+                </Link>
+                {/* <Link to={{pathname:"/dest", lat: element.result_object.latitude, lng: element.result_object.longitude }}>View</Link> */}
               </li>
               </>)
             })
           }
         </ul>
+        </div>
+        {/* <ViewMap/> */}
+        </div>
     </>
   );
 }

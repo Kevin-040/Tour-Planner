@@ -15,15 +15,24 @@ const Login = () => {
 		e.preventDefault();
 		try {
 			const url = "http://localhost:8080/api/auth";
-			const { data: res } = await axios.post(url, data);
-			localStorage.setItem("token", res.data);
-			window.location = "/";
+			const res = await axios.post(url, data);
+			console.log(res);
+
+			// localStorage.setItem("token", JSON.stringify(res.data));
+
+			localStorage.setItem('my-key', res.Token);
+
+			const textFromStorage = localStorage.getItem('my-key');
+			console.log(textFromStorage)
+			
+
+			
+			//window.location = "/";
 		} catch (error) {
 			if (
-				error.response &&
-				error.response.status >= 400 &&
-				error.response.status <= 500
+				error
 			) {
+				console.log(error)
 				setError(error.response.data.message);
 			}
 		}
@@ -55,7 +64,7 @@ const Login = () => {
 						/>
 						{error && <div className={styles.error_msg}>{error}</div>}
 						<button type="submit" className={styles.green_btn}>
-							Sing In
+							Sign In
 						</button>
 					</form>
 				</div>
@@ -63,7 +72,7 @@ const Login = () => {
 					<h1>New Here ?</h1>
 					<Link to="/signup">
 						<button type="button" className={styles.white_btn}>
-							Sing Up
+							Sign Up
 						</button>
 					</Link>
 				</div>

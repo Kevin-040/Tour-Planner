@@ -1,9 +1,11 @@
-import { useState } from "react";
+import { useState,useRef } from "react";
 import axios from "axios";
 import { Link, useNavigate } from "react-router-dom";
 import styles from "./styles.module.css";
-import { CToast, CToastHeader, CToastBody } from '@coreui/react';
-
+import { CToaster } from '@coreui/bootstrap-react'
+import { CToast } from '@coreui/bootstrap-react'
+import { CToastHeader } from '@coreui/bootstrap-react'
+import { CToastBody,  } from '@coreui/bootstrap-react'
 
 const Signup = () => {
 	const [data, setData] = useState({
@@ -12,19 +14,13 @@ const Signup = () => {
 		email: "",
 		password: "",
 	});
-	const [error, setError] = useState("");
-	const navigate = useNavigate();
 
-	const handleChange = ({ currentTarget: input }) => {
-		setData({ ...data, [input.name]: input.value });
-	};
+	const [statusFlag, setStatusFlag] = useState(0);
 
-	const handleSubmit = async (e) => {
-		e.preventDefault();
-		try {
-			const url = "http://localhost:8080/api/users";
-			const { data: res } = await axios.post(url, data);
-			<CToast autohide={false} visible={true}>
+	const [toast, addToast] = useState(0)
+	const toaster = useRef()
+	const exampleToast = (
+		<CToast autohide={false} visible={true}>
 				<CToastHeader closeButton>
 					<svg
 						className="rounded me-2"
@@ -41,8 +37,24 @@ const Signup = () => {
 				</CToastHeader>
 				<CToastBody>SignUp Successfully.</CToastBody>
 			</CToast>
+	)
+
+	const [error, setError] = useState("");
+	const navigate = useNavigate();
+
+	const handleChange = ({ currentTarget: input }) => {
+		setData({ ...data, [input.name]: input.value });
+	};
+
+	const handleSubmit = async (e) => {
+		e.preventDefault();
+		try {
+			const url = "http://localhost:8080/api/users";
+			const { data: res } = await axios.post(url, data);
+			
 			// setTimeout(() => {  console.log("Loading"); }, 5000);
-			navigate("/login");
+			// navigate("/login");
+			setStatusFlag(1);
 			console.log(res.message);
 		} catch (error) {
 			if (
@@ -62,7 +74,7 @@ const Signup = () => {
 					<h1>Welcome Back</h1>
 					<Link to="/login">
 						<button type="button" className={styles.white_btn}>
-							Sing in
+							Sign in
 						</button>
 					</Link>
 				</div>
@@ -106,9 +118,11 @@ const Signup = () => {
 							className={styles.input}
 						/>
 						{error && <div className={styles.error_msg}>{error}</div>}
-						<button type="submit" className={styles.green_btn}>
-							Sing Up
+						<button type="submit" className={styles.green_btn} onClick={() => addToast(exampleToast)}>
+							Sign Up
 						</button>
+						{/* <button onClick={() => addToast(exampleToast)}>Send a toast</button> */}
+						<CToaster ref={toaster} push={toast} placement="bottom-end" />
 					</form>
 				</div>
 			</div>
