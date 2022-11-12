@@ -14,21 +14,30 @@ import Carousel from './components/Carousel'
 import DateForm from "./components/getDate";
 import ViewMap from "./components/Map/viewMap";
 import Attraction from "./components/Attractions/attraction";
+import { useState } from "react";
+import NotFound from "./components/notFound";
 
 function App() {
 	// const user = localStorage.getItem("token");
 	// console.log(localStorage.getItem("my-key"))
 
+	const [token,setToken] = useState('');
+	const [isLoggedIn, setIsLoggedIn] = useState(Boolean);
+
+	if(localStorage.getItem("Token")===""){
+		setIsLoggedIn(false)
+	}
+
 	return (
 		<>
 		<div className="flex flex-col h-screen">
 			<BrowserRouter>
-			<Navbar/>
+			<Navbar setToken={setToken} isLoggedIn={isLoggedIn} setIsLoggedIn={setIsLoggedIn}/>
 			<div className='mt-20 flex-auto'>
 				<Routes>
-					<Route path="/" element={<Start />} />
+					<Route path="/start" element={<Start />} />
 					<Route path="/signup" exact element={<Signup />} />
-					<Route path="/login" exact element={<Login />} />
+					<Route path="/" exact element={<Login setToken={setToken} isLoggedIn={isLoggedIn} setIsLoggedIn={setIsLoggedIn}/>} />
 					<Route path="/location" exact element={<Location/>} />
 					<Route path="/hotel" exact element={<Hotels />} />
 					<Route path="/map" element={<ViewMap/>}/>
@@ -37,6 +46,7 @@ function App() {
 					<Route path="/sel" element={<Selections/>}/>
 					<Route path="/search" element={<Search/>}/>
 					<Route path="/car" element={<Carousel/>}/>
+					<Route path="/*" element={<NotFound/>}/>
 					{/* <Route path="/form" element={<DateForm/>}/> */}
 				</Routes>
 			</div>

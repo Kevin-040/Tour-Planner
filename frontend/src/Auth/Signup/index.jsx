@@ -53,7 +53,7 @@ const Signup = () => {
 			const { data: res } = await axios.post(url, data);
 			
 			// setTimeout(() => {  console.log("Loading"); }, 5000);
-			// navigate("/login");
+			navigate("/");
 			setStatusFlag(1);
 			console.log(res.message);
 		} catch (error) {

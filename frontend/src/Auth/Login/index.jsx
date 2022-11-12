@@ -1,12 +1,13 @@
 import { useState } from "react";
 import axios from "axios";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import styles from "./styles.module.css";
 
-const Login = () => {
+const Login = ({setToken,isLoggedIn,setIsLoggedIn}) => {
 	const [data, setData] = useState({ email: "", password: "" });
 	const [error, setError] = useState("");
 
+	const navigate = useNavigate();
 	const handleChange = ({ currentTarget: input }) => {
 		setData({ ...data, [input.name]: input.value });
 	};
@@ -19,16 +20,19 @@ const Login = () => {
 			console.log(res);
 
 			// localStorage.setItem("token", JSON.stringify(res.data));
+			window.alert("Login successfull !")
+			console.log("SUccessfully Login")
 
-			localStorage.setItem('my-key', res.Token);
+			console.log(res.data)
+			// console.log(res.data["X-auth-token"]);
+			setToken(res.data["X-auth-token"])
 
-			const textFromStorage = localStorage.getItem('my-key');
-			console.log(textFromStorage)
-			
+			localStorage.setItem('Token', res.data["X-auth-token"]);
 
-			
-			//window.location = "/";
-		} catch (error) {
+			setIsLoggedIn(true);
+			navigate("/start");
+
+			} catch (error) {
 			if (
 				error
 			) {

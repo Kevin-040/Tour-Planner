@@ -1,18 +1,20 @@
 import React, { useState } from 'react';
 import {Link} from 'react-router-dom';
+import Logout from '../Auth/Logout';
 
-const Navbar = () => {
+const Navbar = ({setToken,isLoggedIn,setIsLoggedIn}) => {
   const [navIsShown, setnavIsShown] = useState(false);
   const toggleNavIsShown = () => {
     setnavIsShown((navIsShown) => !navIsShown);
   };
   
+
   return (
     <nav className='flex justify-between items-center h-20 px-4 absolute top-0 left-0 z-10 w-full text-white bg-slate-700 '>
       <h1>Tour Planner</h1>
       <ul className='hidden md:flex'>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/start">Home</Link>
         </li>
         <li>
           <Link to='/dest'>Destinations</Link>
@@ -23,12 +25,13 @@ const Navbar = () => {
         <li>
           <Link to='/location'>Locations</Link>
         </li>
-        <li>
-          <Link to='/login'>Login</Link>
+        {/* <li>
+          <Link to='/'>Login</Link>
         </li>
         <li>
           <Link to='/signup'>Signup</Link>
-        </li>
+        </li> */}
+
       </ul>
       <div className='hidden md:flex'>
         <svg
@@ -59,6 +62,9 @@ const Navbar = () => {
             d='M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z'
           />
         </svg>
+        
+        <Logout setToken={setToken} setIsLoggedIn={setIsLoggedIn} isLoggedIn={isLoggedIn} />
+        
       </div>
       {!navIsShown && (
         <svg
@@ -110,12 +116,12 @@ const Navbar = () => {
             <li>
               <Link to='/location'>Locations</Link>
             </li>
-            <li>
+            {/* <li>
               <Link to='/login'>Login</Link>
             </li>
             <li>
               <Link to='/signup'>Signup</Link>
-            </li>
+            </li> */}
           </ul>
           <button className='w-full mb-4 btn'>Search</button>
           <button className='w-full mb-4 btn'>Account</button>

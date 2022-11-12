@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 
 export default function Start() {
   return (
+    // <h6>Authentication Token: {localStorage.getItem("Token")}</h6>
       <>
     <header className='w-screen h-screen relative'>
     <video

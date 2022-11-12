@@ -21,10 +21,10 @@ router.post("/", async (req, res) => {
 			return res.status(401).send({ message: "Invalid Email or Password" });
 
 		const token = user.generateAuthToken();
-		console.log(token)
+		// console.log("token by Kevin" , token)
 	
-		res.status(200).send(`Welcome to login , sign-up api`);
-		res.status(200).send({ 'Token': token });
+		// res.status(200).send(`Welcome to login , sign-up api`);
+		res.status(200).send({ 'X-auth-token': token });
 	
 	} catch (error) {
 		res.status(500).send({ message: "Internal Server Error" });

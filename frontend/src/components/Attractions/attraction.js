@@ -4,7 +4,7 @@ import axios from "axios";
 import Item from '../Display/items'
 import { useLocation } from "react-router-dom";
 
-export default function Attraction(){
+export default function Attraction(props){
 
     const location_id = useLocation().state.locationID;
     const [attractionData, setAttractionData] = useState([])
