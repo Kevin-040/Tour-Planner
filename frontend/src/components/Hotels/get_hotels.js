@@ -7,7 +7,7 @@ import {useLocation} from 'react-router-dom';
 
 export default function Hotels(){
 
-    const lctn_id = useLocation().state.location_id;
+    const lctn_id = useLocation().state.locationID;
     const checkin = useLocation().state.checkin;
 
     const [hotelData, setHotelData] = useState([])
@@ -55,8 +55,9 @@ export default function Hotels(){
       //  
       //   </>
 
-      <>
-        {/* <h6>Hotel Data</h6>
+      <><h6>Hotel Data</h6>
+      <h1>Location : {Number(lctn_id)}</h1>
+        {/* 
 
         <ul>
           {
@@ -80,7 +81,7 @@ export default function Hotels(){
                 // console.log(element.photo.images.medium.url)
                 
                 return <>
-                  <div key={element.location_id}>
+                  <div key={element.name}>
                       <Item 
                       title={element.name}
                       description={temp === null? "Please Click Read More": temp}
