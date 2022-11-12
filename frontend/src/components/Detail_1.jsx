@@ -3,14 +3,14 @@ import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import bgVideo from '../assets/beachVid.mp4';
 
-const Hero = () => {
+const Detail01 = () => {
 
   const [place, setPlace] = useState("Unjha")
   
   const onChangePlace = (event)=>{
     setPlace(event.target.value)
   }
-  let om='/newpage';
+  // let om='/newpage';
   return (
     <header className='w-screen h-screen relative'>
       <video
@@ -42,16 +42,13 @@ const Hero = () => {
           </div>
         
           <div className='flex justify-center mb-3'>
-            <input type="date" className='bg-slate-800 rounded-xl text-white pl-5 pr-3 pb-1' name="StartDate"/>
+            <input type="date" placeholder="yyyy-mm-dd" className='bg-slate-800 rounded-xl text-white pl-5 pr-3 pb-1' name="StartDate"/>
             <p className='mx-4 mt-2 pb-2'>To</p>
-            <input type="date" className='bg-slate-800 rounded-xl text-white pl-5 pr-3 pb-1' name="StartDate"/>
+            <input type="date" placeholder="yyyy-mm-dd" className='bg-slate-800 rounded-xl text-white pl-5 pr-3 pb-1' name="StartDate"/>
           </div>
 
           <div>
-          <Link to={{
-            pathname: "/dest",
-            state: place
-          }}  className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded" >Start</Link>
+          <Link to= "/location" state={{ place: place }}className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded" >Show Places</Link>
           </div>
 
           {/* <Link className='w-11 btn--form ml-4' >
@@ -77,4 +74,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Detail01;

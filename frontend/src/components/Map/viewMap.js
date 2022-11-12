@@ -1,7 +1,7 @@
 import {
     useJsApiLoader,
     GoogleMap,
-    Marker,
+    MarkerF,
     Autocomplete,
     DirectionsRenderer,
   } from '@react-google-maps/api'
@@ -43,11 +43,27 @@ export default function ViewMap(props){
         //   }}
           onLoad={map => setMap(map)}
         >
-          <Marker key="marker_1"
+          <MarkerF key="marker_1"
             position={{
-              lat: 31.08848, lng: 77.17972
+              lat: Number(latVal),
+              lng: Number(lngVal)
           }}
           />
+          {/* <Marker key="marker_1"
+
+            icon={{
+              url: 'https://cdn.mindbowser.com/custom_marker_pin.svg',
+              anchor: new google.maps.Point(17, 46),
+              scaledSize: new google.maps.Size(37, 37)
+            }}
+
+            position={{
+              lat: Number(latVal),
+              lng: Number(lngVal)
+            }}
+
+          /> */}
+
           {/* {directionsResponse && (
             <DirectionsRenderer directions={directionsResponse} />
           )} */}

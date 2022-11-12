@@ -7,12 +7,13 @@ import Hotels from "./components/Hotels/get_hotels";
 import Start from './components/start';
 import Footer from './components/Footer';
 import Destinations from './components/Destinations';
-import Hero from './components/Hero';
+import Detail01 from './components/Detail_1';
 import Selections from './components/Selections';
 import Search from './components/Search';
 import Carousel from './components/Carousel'
 import DateForm from "./components/getDate";
 import ViewMap from "./components/Map/viewMap";
+import Attraction from "./components/Attractions/attraction";
 
 function App() {
 	// const user = localStorage.getItem("token");
@@ -28,10 +29,11 @@ function App() {
 					<Route path="/" element={<Start />} />
 					<Route path="/signup" exact element={<Signup />} />
 					<Route path="/login" exact element={<Login />} />
-					<Route path="/location" exact element={<Location place="shimla"/>} />
+					<Route path="/location" exact element={<Location/>} />
 					<Route path="/hotel" exact element={<Hotels />} />
-					<Route path="/dest" element={<ViewMap/>}/>
-					<Route path="/hero" element={<Hero/>}/>
+					<Route path="/map" element={<ViewMap/>}/>
+					<Route path="/dest" element={<Attraction/>}/>
+					<Route path="/d1" element={<Detail01/>}/>
 					<Route path="/sel" element={<Selections/>}/>
 					<Route path="/search" element={<Search/>}/>
 					<Route path="/car" element={<Carousel/>}/>

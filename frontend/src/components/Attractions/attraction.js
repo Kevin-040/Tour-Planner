@@ -1,29 +1,21 @@
 import React from "react"
 import { useState,useEffect } from "react";
 import axios from "axios";
-import Item from '../Display/items';
-import {useLocation} from 'react-router-dom';
-// import DATA from '../data.json'
+import Item from '../Display/items'
+import { useLocation } from "react-router-dom";
 
-export default function Hotels(){
+export default function Attraction(){
 
-    const lctn_id = useLocation().state.location_id;
-    const checkin = useLocation().state.checkin;
-
-    const [hotelData, setHotelData] = useState([])
+    const location_id = useLocation().state.locationID;
+    const [attractionData, setAttractionData] = useState([])
 
     const options = {
         method: 'GET',
-        url: 'https://travel-advisor.p.rapidapi.com/hotels/get-details',
+        url: 'https://travel-advisor.p.rapidapi.com/attractions/list',
         params: {
-          location_id: Number(lctn_id),
-          // location_id: '12385380',
-          // checkin: checkin,
-          checkin: '2022-11-25',
-          adults: '2',
+          location_id: location_id,
           lang: 'en_US',
-          currency: 'USD',
-          nights: '2'
+          currency: 'USD'
         },
         headers: {
           // 'X-RapidAPI-Key': '61f625c231msh512cfebd4c917bap1bade9jsnf4c01fdce162',
@@ -37,15 +29,15 @@ export default function Hotels(){
 
       useEffect(() => {
     
-        async function getMyHotelsData () {
+        async function getMyAttractionsData () {
         
           const res = await axios.request(options); 
-          setHotelData(res.data.data); 
+          setAttractionData(res.data.data); 
           // console.log(res.data.data)
               
         }
     
-        getMyHotelsData() ; 
+        getMyAttractionsData() ; 
         
     
       }, []);
@@ -75,7 +67,7 @@ export default function Hotels(){
           }
         </ul> */}
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 ml-20 pt-5"> 
-          {hotelData && hotelData.map((element)=>{
+          {attractionData && attractionData.map((element)=>{
                 let temp = element.description;
                 // console.log(element.photo.images.medium.url)
                 
@@ -88,7 +80,8 @@ export default function Hotels(){
 
                       // imageURL = "http://fremontgurdwara.org/wp-content/uploads/2020/06/no-image-icon-2-450x281.png"
                       
-                      hotelURL={element.web_url}/>
+                      hotelURL={(element.hasOwnProperty('photo') && element.photo.images.medium.url)? element.photo.images.medium.url:"http://fremontgurdwara.org/wp-content/uploads/2020/06/no-image-icon-2-450x281.png"}
+                      />
                   </div>
                 
                 </>
