@@ -17,13 +17,13 @@ const Navbar = ({setToken,isLoggedIn,setIsLoggedIn}) => {
           <Link to="/start">Home</Link>
         </li>
         <li>
-          <Link to='/dest'>Destinations</Link>
+          <Link to='/dest' state={{ locationID: '297608'}}>Attractions</Link>
         </li>
         <li>
-          <Link to='/hotel'>Hotels</Link>
+          <Link to='/hotel' state={{ locationID: '297608'}}>Hotels</Link>
         </li>
         <li>
-          <Link to='/location'>Locations</Link>
+          <Link to='/location' state={{ place: 'ahmedabad'}}>Locations</Link>
         </li>
         {/* <li>
           <Link to='/'>Login</Link>

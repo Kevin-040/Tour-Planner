@@ -16,6 +16,7 @@ import ViewMap from "./components/Map/viewMap";
 import Attraction from "./components/Attractions/attraction";
 import { useState } from "react";
 import NotFound from "./components/notFound";
+import About from "./components/Aboutus";
 
 function App() {
 	// const user = localStorage.getItem("token");
@@ -33,9 +34,9 @@ function App() {
 		<div className="flex flex-col h-screen">
 			<BrowserRouter>
 			<Navbar setToken={setToken} isLoggedIn={isLoggedIn} setIsLoggedIn={setIsLoggedIn}/>
-			<div className='mt-20 flex-auto'>
+			<div className='mt-20 flex-auto w-full'>
 				<Routes>
-					<Route path="/start" element={<Start />} />
+					<Route path="/start" element={<Start isLoggedIn={isLoggedIn}/>} />
 					<Route path="/signup" exact element={<Signup />} />
 					<Route path="/" exact element={<Login setToken={setToken} isLoggedIn={isLoggedIn} setIsLoggedIn={setIsLoggedIn}/>} />
 					<Route path="/location" exact element={<Location/>} />
@@ -46,6 +47,8 @@ function App() {
 					<Route path="/sel" element={<Selections/>}/>
 					<Route path="/search" element={<Search/>}/>
 					<Route path="/car" element={<Carousel/>}/>
+					<Route path="/about" element={<About/>}/>
+					{/* <Route path="/contact" element={<Contact/>}/> */}
 					<Route path="/*" element={<NotFound/>}/>
 					{/* <Route path="/form" element={<DateForm/>}/> */}
 				</Routes>
