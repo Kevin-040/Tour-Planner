@@ -17,6 +17,7 @@ import Attraction from "./components/Attractions/attraction";
 import { useState } from "react";
 import NotFound from "./components/notFound";
 import About from "./components/Aboutus";
+import Translate from "./Translator/Translate";
 
 function App() {
 	// const user = localStorage.getItem("token");
@@ -48,6 +49,8 @@ function App() {
 					<Route path="/search" element={<Search/>}/>
 					<Route path="/car" element={<Carousel/>}/>
 					<Route path="/about" element={<About/>}/>
+					<Route path="/translate" element={<Translate/>}/>
+
 					{/* <Route path="/contact" element={<Contact/>}/> */}
 					<Route path="/*" element={<NotFound/>}/>
 					{/* <Route path="/form" element={<DateForm/>}/> */}

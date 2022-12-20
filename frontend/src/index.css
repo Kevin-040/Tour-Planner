@@ -63,3 +63,24 @@ code {
   color: black;
   background: greenyellow;
 }
+
+input[type=date],input[type=date] {
+  cursor: pointer;
+}
+.date::-webkit-calendar-picker-indicator {
+  background-color: white;
+  cursor: pointer;
+}
+.searchDestination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.searchDestination span{
+  margin-left: -26px;
+  color: white;
+  font-size: 18px;
+}
+.searchDestination::placeholder{
+  color: white;
+}

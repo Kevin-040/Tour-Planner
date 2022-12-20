@@ -19,7 +19,7 @@ export default function Attraction(props){
         },
         headers: {
           // 'X-RapidAPI-Key': '61f625c231msh512cfebd4c917bap1bade9jsnf4c01fdce162',
-          'X-RapidAPI-Key': '35900f3b3amsh4f4c17f7fcaebf5p12196bjsn2e01d7415684',
+          'X-RapidAPI-Key': '83573823ccmsh6f495c7827b0cd4p180bf0jsnb2b625cf365f',
           // 'X-RapidAPI-Key': '316a36177bmsh3a1271d37149742p17c083jsn1e53aab2fc51',
           // 'X-RapidAPI-Key': '2e17186d71msh72bddb6221e1f71p1414a7jsn7540b28246ce',
           // 'X-RapidAPI-Key': '1a00ba1da5msh07ad2caac557c38p15f2d6jsn0fadb5583bbe',
@@ -34,7 +34,8 @@ export default function Attraction(props){
         
           const res = await axios.request(options); 
           setAttractionData(res.data.data); 
-          // console.log(res.data.data)
+          console.log(res.data.data)
+          console.log("Attraction Function Called")
               
         }
     
