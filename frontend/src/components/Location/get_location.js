@@ -114,7 +114,7 @@ export default function Location() {
                             </Link>
                             <Link
                             to="/hotel"
-                            state={{ locationID: element.detailsV2.locationId}}
+                            state={{ locationID: element.detailsV2.locationId, locationName: element.detailsV2.names.name}}
                               class="
                                 inline-grid
                                 pl-4

@@ -20,7 +20,7 @@ const Navbar = ({setToken,isLoggedIn,setIsLoggedIn}) => {
           <Link to='/dest' state={{ locationID: '297608'}}>Attractions</Link>
         </li>
         <li>
-          <Link to='/hotel' state={{ locationID: '297608'}}>Hotels</Link>
+          <Link to='/hotel' state={{ locationID: '297608', locationName: "Shimla"}}>Hotels</Link>
         </li>
         <li>
           <Link to='/location' state={{ place: 'ahmedabad'}}>Locations</Link>
