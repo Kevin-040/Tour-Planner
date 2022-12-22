@@ -108,7 +108,7 @@ export default function TourPlan() {
               DateArr.map((element)=>{
                 let lt = attr[i].latitude
                 let lg = attr[i].longitude
-                let A_title = attr[i].title
+                let A_title = attr[i].name
                 let A_reviews = attr[i].num_reviews
                 let A_rating = attr[i].rating
                 let A_ranking_subcategory = attr[i].ranking_subcategory
@@ -122,10 +122,23 @@ export default function TourPlan() {
 
                 // console.log(topHotel)
                 i++;
+
+                // Function to Format date in yyyy-mm-dd format
+                function formatDate(date, format) {
+                    const map = {
+                        mm: date.getMonth() + 1,
+                        dd: date.getDate(),
+                        yy: date.getFullYear().toString().slice(-2),
+                        yyyy: date.getFullYear()
+                }
+                    return format.replace(/mm|dd|yyyy/gi, matched => map[matched])
+                }
+
                   return(
                      <><Item
                      DayNum = {day++}
-                     HotelTitle= {topHotel[0].name}
+                     dayDate = {formatDate(element,"yyyy-mm-dd")}
+                     HotelTitle= {(topHotel[0].name)? topHotel[0].name:"Nope"}
                      HotelDescription={topHotel[0].description}
                      HotelReviews = {topHotel[0].num_reviews}
                      HotelRating = {topHotel[0].rating}
