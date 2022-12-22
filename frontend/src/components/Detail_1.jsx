@@ -7,6 +7,28 @@ import { BiSearch } from "react-icons/bi";
 
 const Detail01 = () => {
 
+  // Get Current Date
+  let newDate = new Date();
+
+  // Function to Format date in yyyy-mm-dd format
+  function formatDate(date, format) {
+    const map = {
+        mm: date.getMonth() + 1,
+        dd: date.getDate(),
+        yy: date.getFullYear().toString().slice(-2),
+        yyyy: date.getFullYear()
+  }
+    return format.replace(/mm|dd|yy|yyy/gi, matched => map[matched])
+  }
+
+  // Function to add days from date
+  // Used to set minimum days for Tour
+  Date.prototype.addDays = function (days) {
+    let date = new Date(this.valueOf());
+    date.setDate(date.getDate() + days);
+    return date;
+  }
+
   const [place, setPlace] = useState("Unjha")
   const [startDate, setStartDate] = useState(new Date())
   const [endDate, setEndDate] = useState(new Date())
@@ -53,9 +75,9 @@ const Detail01 = () => {
           /><span><BiSearch/></span>
           </div>
           <div className='flex justify-center mb-3'>
-            <input type="date" placeholder="yyyy-mm-dd" className='bg-slate-800 rounded-xl text-white pl-5 pr-3 pb-1 date' name="StartDate" onChange={hadleStartDate}/>
+            <input type="date" placeholder="yyyy-mm-dd" min={formatDate(newDate,"yyyy-mm-dd")} className='bg-slate-800 rounded-xl text-white pl-5 pr-3 pb-1 date' name="StartDate" onChange={hadleStartDate}/>
             <p className='mx-4 mt-2 pb-2'>To</p>
-            <input type="date" placeholder="yyyy-mm-dd" className='bg-slate-800 rounded-xl text-white pl-5 pr-3 pb-1 date' name="StartDate" onChange={hadleEndDate}/>
+            <input type="date" placeholder="yyyy-mm-dd" min={formatDate(newDate.addDays(2),"yyyy-mm-dd")} className='bg-slate-800 rounded-xl text-white pl-5 pr-3 pb-1 date' name="StartDate" onChange={hadleEndDate}/>
           </div>
 
           <div>

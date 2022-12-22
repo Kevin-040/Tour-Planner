@@ -1,21 +1,23 @@
 import React from "react"
 import { useState,useEffect } from "react";
 import axios from "axios";
-import Item from './attrCard'
+import Item from './restCard'
 import { useLocation } from "react-router-dom";
-import DATA from "../../assets/AttractionData.json"
-export default function Attraction(props){
+import restData from "../../assets/RestaurantData.json";
+
+export default function Restaurant(props){
 
     const location_id = useLocation().state.locationID;
-    const [attractionData, setAttractionData] = useState([])
+    const [restaurantData, setRestaurantData] = useState([])
 
     const options = {
         method: 'GET',
-        url: 'https://travel-advisor.p.rapidapi.com/attractions/list',
+        url: 'https://travel-advisor.p.rapidapi.com/restaurants/list',
         params: {
-          location_id: location_id,
-          lang: 'en_US',
-          currency: 'USD'
+            location_id: location_id,
+            lunit: 'km',
+            limit: '30',
+            lang: 'en_US'
         },
         headers: {
           // 'X-RapidAPI-Key': '61f625c231msh512cfebd4c917bap1bade9jsnf4c01fdce162',
@@ -28,49 +30,47 @@ export default function Attraction(props){
         }
       };
 
-      // useEffect(() => {
+    //   useEffect(() => {
     
-      //   async function getMyAttractionsData () {
+    //     async function getRestaurantsData () {
         
-      //     const res = await axios.request(options); 
-      //     setAttractionData(res.data.data); 
-      //     console.log(res.data.data)
-      //     console.log("Attraction Function Called")
+    //       const res = await axios.request(options); 
+    //       setRestaurantData(res.data.data); 
+    //       console.log(res.data.data)
+    //       console.log("Restaurant Function Called")
               
-      //   }
+    //     }
     
-      //   getMyAttractionsData() ; 
+    //     getRestaurantsData() ; 
         
     
-      // }, []);
+    //   }, []);
 
     return(
-
       <>
-        
         <div className="w-full container">
         <div className="grid grid-cols-1  sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 pt-5"> 
-          {DATA.data && DATA.data.map((element)=>{
+          {restData.data && restData.data.map((element)=>{
+                let temp = element.address;
                 // console.log(element.photo.images.medium.url)
                 
                 return <>
                   <div key={element.location_id}>
                       <Item 
                       title={element.name}
+                      description={temp === null? "Please Click Read More": temp}
                       reviews = {element.num_reviews}
                       rating = {element.rating}
                       longitude = {element.longitude}
                       latitude={element.latitude}
-                      ranking_subcategory={element.ranking_subcategory}
-                      address = {element.address}
-                      // subcategory = "Nature and Park"
-                      subcategory = {(element.hasOwnProperty('subcategory') && element.subcategory[0].name)? element.subcategory[0].name:"Undefined"}
-
                       imageURL = {(element.hasOwnProperty('photo') && element.photo.images.medium.url)? element.photo.images.medium.url:"http://fremontgurdwara.org/wp-content/uploads/2020/06/no-image-icon-2-450x281.png"}
 
                       // imageURL = "http://fremontgurdwara.org/wp-content/uploads/2020/06/no-image-icon-2-450x281.png"
                       
-                      hotelURL={(element.hasOwnProperty('photo') && element.photo.images.medium.url)? element.photo.images.medium.url:"http://fremontgurdwara.org/wp-content/uploads/2020/06/no-image-icon-2-450x281.png"}
+                      hotelURL={(element.hasOwnProperty('web_url') && element.web_url)? element.web_url:"http://fremontgurdwara.org/wp-content/uploads/2020/06/no-image-icon-2-450x281.png"}
+                      reviewURL={(element.hasOwnProperty('write_review') && element.write_review)? element.write_review:"http://fremontgurdwara.org/wp-content/uploads/2020/06/no-image-icon-2-450x281.png"}
+
+
                       />
                   </div>
                 

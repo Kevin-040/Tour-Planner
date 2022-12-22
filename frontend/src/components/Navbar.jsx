@@ -28,10 +28,10 @@ const Navbar = ({setToken,isLoggedIn,setIsLoggedIn}) => {
         <li>
           <Link to='/translate'>Translate</Link>
         </li>
-        {/* <li>
-          <Link to='/'>Login</Link>
-        </li>
         <li>
+          <Link to='/rest'state={{ locationID: '297608'}}>Restaurant</Link>
+        </li>
+        {/* <li>
           <Link to='/signup'>Signup</Link>
         </li> */}
 
