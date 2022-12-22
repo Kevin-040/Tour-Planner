@@ -72,7 +72,7 @@ const Detail01 = () => {
             placeholder='Search Destinations'
             className='bg-slate-800 text-white ml-3 rounded-xl justify-start mb-2 mt-2 px-3 py-2 '
             onChange={onChangePlace}
-          /><span><BiSearch/></span>
+          /><span className='cursor-pointer'><BiSearch/></span>
           </div>
           <div className='flex justify-center mb-3'>
             <input type="date" placeholder="yyyy-mm-dd" min={formatDate(newDate,"yyyy-mm-dd")} className='bg-slate-800 rounded-xl text-white pl-5 pr-3 pb-1 date' name="StartDate" onChange={hadleStartDate}/>

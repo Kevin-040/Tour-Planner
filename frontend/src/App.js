@@ -20,6 +20,7 @@ import About from "./components/Aboutus";
 import Translate from "./Translator/Translate";
 import Restaurant from "./components/Restaurants/get_restaurant";
 import TourPlan from "./components/Planner/tourPlan";
+import ContactUs from "./components/contactUs";
 
 function App() {
 	// const user = localStorage.getItem("token");
@@ -54,6 +55,8 @@ function App() {
 					<Route path="/translate" element={<Translate/>}/>
 					<Route path="/rest" element={<Restaurant/>}/>
 					<Route path="/plan" element={<TourPlan/>}/>
+					<Route path="/contact" element={<ContactUs/>}/>
+					
 
 					{/* <Route path="/contact" element={<Contact/>}/> */}
 					<Route path="/*" element={<NotFound/>}/>
