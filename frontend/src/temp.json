@@ -1,0 +1,3249 @@
+[
+    {
+        "location_id": "2572825",
+        "name": "3 by OYO - Nami Residency",
+        "latitude": "23.02099",
+        "longitude": "72.57018",
+        "num_reviews": "327",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Ahmedabad, Ahmedabad District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1e/c1/40/40/3-by-oyo-nami-residency.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1e/c1/40/40/3-by-oyo-nami-residency.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1e/c1/40/40/3-by-oyo-nami-residency.jpg",
+                    "height": "853"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/1e/c1/40/40/3-by-oyo-nami-residency.jpg",
+                    "height": "683"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1e/c1/40/40/3-by-oyo-nami-residency.jpg",
+                    "height": "367"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-10-01T05:32:14-0400",
+            "caption": "Reception",
+            "id": "515981376",
+            "helpful_votes": "0",
+            "published_date": "2021-10-01T05:32:14-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_hotel",
+        "autobroaden_label": "Ahmedabad Hotels",
+        "raw_ranking": "4.8002400398254395",
+        "ranking_geo": "Ahmedabad",
+        "ranking_geo_id": "297608",
+        "ranking_position": "10",
+        "ranking_denominator": "583",
+        "ranking_category": "hotel",
+        "ranking": "#10 of 583 hotels in Ahmedabad",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.0797456311150638",
+        "distance_string": null,
+        "bearing": "southwest",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$35 - $48",
+        "hotel_class": "3.5",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "186fe869-50fe-43de-8653-213414dca2b6",
+        "description": "It gives us great pleasure to introduce Hotel Nami Residency – Ahmedabad Business Class Hotel with advanced luxurious amenities to meet your requirements of Corporate meets, memorable Occasions, Family Celebrations, Comfort Stay, and many more. It is having 68 spacious rooms including 2 executive deluxe rooms, 24hours Coffee Shop & Multi cuisine Restaurant – Café Bloom & a banqueting facility for up to 200 persons. Hotel Nami Residency offers smart, contemporary, and top-of-the-line services & facilities.",
+        "web_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d2572825-Reviews-3_by_OYO_Nami_Residency-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g297608-d2572825-3_by_OYO_Nami_Residency-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Ahmedabad",
+                "abbrv": null,
+                "location_id": "297608"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Ahmedabad District",
+                "abbrv": null,
+                "location_id": "12385355"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Gujarat",
+                "abbrv": null,
+                "location_id": "297607"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "category": {
+            "key": "hotel",
+            "name": "Hotel"
+        },
+        "subcategory": [
+            {
+                "key": "hotel",
+                "name": "Hotel"
+            }
+        ],
+        "parent_display_name": "Ahmedabad",
+        "guide_count": "0",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+91 90999 17777",
+        "website": "https://www.oyorooms.com/79479-3-by-oyo-3-by-oyo-nami-residency-ahmedabad/?utm_source=tripadvisor&utm_medium=listing&utm_campaign=AHM527&latitude=23.021013&longitude=72.570279",
+        "email": "reservations.nami@3byoyo.com",
+        "address_obj": {
+            "street1": "Ellisbridge, Paldi Rd",
+            "street2": "Opposite V S Hospital",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "postalcode": "380006"
+        },
+        "address": "Ellisbridge, Paldi Rd Opposite V S Hospital, Ahmedabad 380006 India",
+        "local_name": "3 by OYO - Nami Residency",
+        "local_address": "Ellisbridge, Paldi Rd, Opposite V S Hospital, 380006",
+        "local_lang_code": "en-IN",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": [
+            {
+                "key": "high_speed_internet_in_room",
+                "name": "Internet"
+            },
+            {
+                "key": "suites",
+                "name": "Suites"
+            },
+            {
+                "key": "room_service",
+                "name": "Room service"
+            },
+            {
+                "key": "Free Internet",
+                "name": "Free Internet"
+            },
+            {
+                "key": "free_parking",
+                "name": "Free parking"
+            },
+            {
+                "key": "wheelchair_access",
+                "name": "Wheelchair access"
+            },
+            {
+                "key": "restaurant",
+                "name": "Restaurant"
+            },
+            {
+                "key": "Wifi",
+                "name": "Wifi"
+            },
+            {
+                "key": "free_wireless_internet_in_room",
+                "name": "Free Wifi"
+            },
+            {
+                "key": "free_breakfast",
+                "name": "Breakfast included"
+            },
+            {
+                "key": "Dry Cleaning",
+                "name": "Dry Cleaning"
+            },
+            {
+                "key": "meeting_room",
+                "name": "Meeting rooms"
+            },
+            {
+                "key": "Non-Smoking Rooms",
+                "name": "Non-smoking rooms"
+            },
+            {
+                "key": "business_services",
+                "name": "Business center"
+            },
+            {
+                "key": "Laundry Service",
+                "name": "Laundry Service"
+            },
+            {
+                "key": "Banquet Room",
+                "name": "Banquet Room"
+            },
+            {
+                "key": "air_conditioning",
+                "name": "Air conditioning"
+            },
+            {
+                "key": "Conference Facilities",
+                "name": "Conference Facilities"
+            },
+            {
+                "key": "non_smoking_hotel",
+                "name": "Non-smoking hotel"
+            },
+            {
+                "key": "Safe",
+                "name": "Safe"
+            },
+            {
+                "key": "Flatscreen TV",
+                "name": "Flatscreen TV"
+            },
+            {
+                "key": "Breakfast Buffet",
+                "name": "Breakfast Buffet"
+            },
+            {
+                "key": "Breakfast Available",
+                "name": "Breakfast Available"
+            },
+            {
+                "key": "Housekeeping",
+                "name": "Housekeeping"
+            },
+            {
+                "key": "Baggage Storage",
+                "name": "Baggage Storage"
+            },
+            {
+                "key": "Bath / Shower",
+                "name": "Bath / Shower"
+            },
+            {
+                "key": "Bottled Water",
+                "name": "Bottled Water"
+            },
+            {
+                "key": "Car Hire",
+                "name": "Car Hire"
+            },
+            {
+                "key": "Doorperson",
+                "name": "Doorperson"
+            },
+            {
+                "key": "English - Amenities",
+                "name": "English"
+            },
+            {
+                "key": "24-Hour Front Desk",
+                "name": "24-Hour Front Desk"
+            },
+            {
+                "key": "Hindi",
+                "name": "Hindi"
+            },
+            {
+                "key": "Ironing Service",
+                "name": "Ironing Service"
+            },
+            {
+                "key": "24-Hour Security",
+                "name": "24-Hour Security"
+            },
+            {
+                "key": "airport_transportation",
+                "name": "Airport transportation"
+            },
+            {
+                "key": "Public Wifi",
+                "name": "Public Wifi"
+            },
+            {
+                "key": "fitness_center",
+                "name": "Fitness center"
+            },
+            {
+                "key": "concierge_desk",
+                "name": "Concierge"
+            },
+            {
+                "key": "Family Rooms",
+                "name": "Family Rooms"
+            },
+            {
+                "key": "Private Balcony",
+                "name": "Private Balcony"
+            },
+            {
+                "key": "Parking",
+                "name": "Parking"
+            },
+            {
+                "key": "Air Purifier",
+                "name": "Air Purifier"
+            },
+            {
+                "key": "Breakfast in the Room",
+                "name": "Breakfast in the Room"
+            },
+            {
+                "key": "Cable / Satellite TV",
+                "name": "Cable / Satellite TV"
+            },
+            {
+                "key": "24-Hour Check-in",
+                "name": "24-Hour Check-in"
+            },
+            {
+                "key": "Express Check-in / Check-out",
+                "name": "Express Check-in / Check-out"
+            },
+            {
+                "key": "Children's Television Networks",
+                "name": "Children's Television Networks"
+            },
+            {
+                "key": "Clothes Dryer",
+                "name": "Clothes Dryer"
+            },
+            {
+                "key": "Clothes Rack",
+                "name": "Clothes Rack"
+            },
+            {
+                "key": "Coffee / Tea Maker",
+                "name": "Coffee / Tea Maker"
+            },
+            {
+                "key": "Couples Massage",
+                "name": "Couples Massage"
+            },
+            {
+                "key": "Currency Exchange",
+                "name": "Currency Exchange"
+            },
+            {
+                "key": "Desk",
+                "name": "Desk"
+            },
+            {
+                "key": "Dining Area",
+                "name": "Dining Area"
+            },
+            {
+                "key": "Diving",
+                "name": "Diving"
+            },
+            {
+                "key": "Electric Kettle",
+                "name": "Electric Kettle"
+            },
+            {
+                "key": "Entertainment Staff",
+                "name": "Entertainment Staff"
+            },
+            {
+                "key": "Evening Entertainment",
+                "name": "Evening Entertainment"
+            },
+            {
+                "key": "Extra Long Beds",
+                "name": "Extra Long Beds"
+            },
+            {
+                "key": "Fitness / Spa Locker Rooms",
+                "name": "Fitness / Spa Locker Rooms"
+            },
+            {
+                "key": "Foot Massage",
+                "name": "Foot Massage"
+            },
+            {
+                "key": "Free Private Parking Nearby",
+                "name": "Free Private Parking Nearby"
+            },
+            {
+                "key": "Free Public Parking Nearby",
+                "name": "Free Public Parking Nearby"
+            },
+            {
+                "key": "Complimentary Toiletries",
+                "name": "Complimentary Toiletries"
+            },
+            {
+                "key": "Full Body Massage",
+                "name": "Full Body Massage"
+            },
+            {
+                "key": "Hand Massage",
+                "name": "Hand Massage"
+            },
+            {
+                "key": "Happy Hour",
+                "name": "Happy Hour"
+            },
+            {
+                "key": "Iron",
+                "name": "Iron"
+            },
+            {
+                "key": "Kids' Meals",
+                "name": "Kids' Meals"
+            },
+            {
+                "key": "Landmark View",
+                "name": "Landmark View"
+            },
+            {
+                "key": "Laptop Safe",
+                "name": "Laptop Safe"
+            },
+            {
+                "key": "Massage",
+                "name": "Massage"
+            },
+            {
+                "key": "Mosquito Net",
+                "name": "Mosquito Net"
+            },
+            {
+                "key": "Neck Massage",
+                "name": "Neck Massage"
+            },
+            {
+                "key": "Newspaper",
+                "name": "Newspaper"
+            },
+            {
+                "key": "On-Demand Movies",
+                "name": "On-Demand Movies"
+            },
+            {
+                "key": "Outdoor Furniture",
+                "name": "Outdoor Furniture"
+            },
+            {
+                "key": "Picnic Area",
+                "name": "Picnic Area"
+            },
+            {
+                "key": "Private Bathrooms",
+                "name": "Private Bathrooms"
+            },
+            {
+                "key": "Private Check-in / Check-out",
+                "name": "Private Check-in / Check-out"
+            },
+            {
+                "key": "Radio",
+                "name": "Radio"
+            },
+            {
+                "key": "Seating Area",
+                "name": "Seating Area"
+            },
+            {
+                "key": "Secured Parking",
+                "name": "Secured Parking"
+            },
+            {
+                "key": "Shoeshine",
+                "name": "Shoeshine"
+            },
+            {
+                "key": "Shops - Amenities",
+                "name": "Shops"
+            },
+            {
+                "key": "Snack Bar",
+                "name": "Snack Bar"
+            },
+            {
+                "key": "Sofa",
+                "name": "Sofa"
+            },
+            {
+                "key": "Sofa Bed",
+                "name": "Sofa Bed"
+            },
+            {
+                "key": "Taxi Service",
+                "name": "Taxi Service"
+            },
+            {
+                "key": "Telephone",
+                "name": "Telephone"
+            },
+            {
+                "key": "Tile / Marble Floor",
+                "name": "Tile / Marble Floor"
+            },
+            {
+                "key": "Urdu",
+                "name": "Urdu"
+            },
+            {
+                "key": "Wake Up Service / Alarm Clock",
+                "name": "Wake Up Service / Alarm Clock"
+            },
+            {
+                "key": "Walking Tours - Amenities",
+                "name": "Walking Tours"
+            },
+            {
+                "key": "Wardrobe / Closet",
+                "name": "Wardrobe / Closet"
+            },
+            {
+                "key": "Photo Copier / Fax In Business Center",
+                "name": "Photo Copier / Fax In Business Center"
+            }
+        ],
+        "photo_count": "118",
+        "has_review_draft": false,
+        "has_panoramic_photos": false,
+        "rating_histogram": {
+            "count_1": "6",
+            "count_2": "9",
+            "count_3": "10",
+            "count_4": "77",
+            "count_5": "225"
+        },
+        "room_tips": [
+            {
+                "user": {
+                    "user_id": "B2A7369D38A6C6EA26EC80DE36FB524D",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Rajshrivas87",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/fe/default-avatar-2020-58.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/fe/default-avatar-2020-58.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.B2A7369D38A6C6EA26EC80DE36FB524D",
+                    "points": "0",
+                    "created_time": "2019-11-12T00:11:53-0500",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Good location and easy in Ahmedabad Party hall good",
+                "rating": "5",
+                "review_id": "725823657",
+                "id": "725823657",
+                "created_time": "2019-11-11T19:12:28-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "D1C9CB9E651BF55AA2B2640E8CBA2E46",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "rumit2013",
+                    "user_location": {
+                        "name": "Mumbai, India",
+                        "id": "304554"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/a9/c9/ff/rumit-d.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/a9/c9/ff/rumit-d.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.D1C9CB9E651BF55AA2B2640E8CBA2E46",
+                    "points": "0",
+                    "created_time": "2011-10-08T08:13:08-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "any room is ok",
+                "rating": "4",
+                "review_id": "642422211",
+                "id": "642422211",
+                "created_time": "2018-12-30T06:13:38-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "018130398E220F16B881A928E7035EE8",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "miti1415",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/9e/fe/cc/mitis30.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/9e/fe/cc/mitis30.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.018130398E220F16B881A928E7035EE8",
+                    "points": "0",
+                    "created_time": "2017-05-26T08:07:05-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Almost all the rooms have twin beds. They did connect them on request. Only the superior rooms according to them have double beds.",
+                "rating": "4",
+                "review_id": "553055233",
+                "id": "553055233",
+                "created_time": "2018-01-10T16:32:44-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "50AACB8A429A65464E37AFD32D175473",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "VaibhavS276",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/66/default-avatar-2020-53.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/66/default-avatar-2020-53.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.50AACB8A429A65464E37AFD32D175473",
+                    "points": "0",
+                    "created_time": "2012-06-24T06:29:49-0400",
+                    "locale": "en_US"
+                },
+                "type": "room_tip",
+                "text": "Near Sabarmati River front",
+                "rating": "5",
+                "review_id": "523310569",
+                "id": "523310569",
+                "created_time": "2017-09-10T22:35:32-04:00"
+            },
+            {
+                "user": {
+                    "user_id": "E381B8B1D8785BD6D7DA7F5657A41B20",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "tafayyaz",
+                    "user_location": {
+                        "name": "Dhaka City, Bangladesh",
+                        "id": "293936"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/79/default-avatar-2020-21.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/79/default-avatar-2020-21.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.E381B8B1D8785BD6D7DA7F5657A41B20",
+                    "points": "0",
+                    "created_time": "2013-03-22T12:48:56-0400",
+                    "locale": "en_US"
+                },
+                "type": "room_tip",
+                "text": "Location is very good and rooms are neat and clean.",
+                "rating": "4",
+                "review_id": "459678817",
+                "id": "459678817",
+                "created_time": "2017-02-14T05:55:59-05:00"
+            }
+        ]
+    },
+    {
+        "location_id": "301620",
+        "name": "Lemon Tree Premier; The Atrium, Ahmedabad",
+        "latitude": "23.028925",
+        "longitude": "72.57706",
+        "num_reviews": "1352",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Ahmedabad, Ahmedabad District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/70/7a/00/lemon-tree-premier-the.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/70/7a/00/lemon-tree-premier-the.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1320",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/70/7a/00/lemon-tree-premier-the.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/12/70/7a/00/lemon-tree-premier-the.jpg",
+                    "height": "625"
+                },
+                "medium": {
+                    "width": "396",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/70/7a/00/lemon-tree-premier-the.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2018-03-26T07:22:48-0400",
+            "caption": "",
+            "id": "309361152",
+            "helpful_votes": "0",
+            "published_date": "2018-03-26T07:22:48-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_hotel",
+        "autobroaden_label": "Ahmedabad Hotels",
+        "raw_ranking": "4.818015098571777",
+        "ranking_geo": "Ahmedabad",
+        "ranking_geo_id": "297608",
+        "ranking_position": "6",
+        "ranking_denominator": "583",
+        "ranking_category": "hotel",
+        "ranking": "#6 of 583 hotels in Ahmedabad",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.6287130147314502",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$66 - $120",
+        "hotel_class": "5.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "11e84e34-fec2-4ba4-b808-7022feb7b02d",
+        "description": "On the bank of Sabarmati, overlooking the riverfront, lounges this plush and stylish hotel, enhanced by landscaped greens and a serene water body. Large glass doors invitingly usher you into this classic boutique hotel with an atrium lobby dressed in soft leather and remarkable modern art. Contemporary and inviting, the lobby adorns an elegant look accentuated by a large pristine crystal chandelier, two stylish capsule elevators and several seating areas making it a perfect setting for private meetings and idle conversations. The hotel is designed to attract the millennium traveler with its 63 spacious and well appointed rooms and suites, a 24x7 multi-cuisine coffee shop– Citrus Café, with an interactive kitchen, and The Riverfront Grill, a picturesque alfresco grill and barbeque restaurant, which directly overlooks the Sabarmati river; besides a fully equipped gym and the largest indoor swimming pool in the city. Wake up to the picturesque view of the river from most rooms, trot at the joggers trail for a healthy start, enjoy sunrise over a hearty breakfast or end the day taking a leisurely walk by the riverside. To kindle travelers’ business ideas on the go, the hotel also offers fully equipped large conference rooms, exquisite board rooms, a business center along with a rooftop outdoor terrace to add that extra zing, to your special events. Together with its personalized services, modern facilities and impeccable service standards, this hotel is a perfect place for the upbeat business and leisure traveler to interact and unwind. The hotel is just 15 minutes from the railway station and 20 minutes from Sardar Vallabhbhai Patel International Airport. It is also in close proximity to major tourist attractions like the Gandhi Ashram as well as the shopping and commercial areas of CG Road in Navrangpura.",
+        "web_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d301620-Reviews-Lemon_Tree_Premier_The_Atrium_Ahmedabad-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g297608-d301620-Lemon_Tree_Premier_The_Atrium_Ahmedabad-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Ahmedabad",
+                "abbrv": null,
+                "location_id": "297608"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Ahmedabad District",
+                "abbrv": null,
+                "location_id": "12385355"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Gujarat",
+                "abbrv": null,
+                "location_id": "297607"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "category": {
+            "key": "hotel",
+            "name": "Hotel"
+        },
+        "subcategory": [
+            {
+                "key": "hotel",
+                "name": "Hotel"
+            }
+        ],
+        "parent_display_name": "Ahmedabad",
+        "guide_count": "0",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+91 79 4080 5505",
+        "website": "https://www.lemontreehotels.com/lemon-tree-premier/ahmedabad/the-atrium-ahmedabad.aspx?utm_source=google&utm_medium=organic",
+        "email": "hi.ah1@lemontreehotels.com",
+        "address_obj": {
+            "street1": "Off Nehru Bridge, Sabarmati River Front",
+            "street2": null,
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "postalcode": "380001"
+        },
+        "address": "Off Nehru Bridge, Sabarmati River Front, Ahmedabad 380001 India",
+        "local_name": "Lemon Tree Premier; The Atrium, Ahmedabad",
+        "local_address": "Off Nehru Bridge, Sabarmati River Front, 380001",
+        "local_lang_code": "en-IN",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": [
+            {
+                "key": "swimming_pool",
+                "name": "Pool"
+            },
+            {
+                "key": "room_service",
+                "name": "Room service"
+            },
+            {
+                "key": "restaurant",
+                "name": "Restaurant"
+            },
+            {
+                "key": "fitness_center",
+                "name": "Fitness center"
+            },
+            {
+                "key": "free_parking",
+                "name": "Free parking"
+            },
+            {
+                "key": "business_services",
+                "name": "Business center"
+            },
+            {
+                "key": "wheelchair_access",
+                "name": "Wheelchair access"
+            },
+            {
+                "key": "high_speed_internet_in_room",
+                "name": "Internet"
+            },
+            {
+                "key": "suites",
+                "name": "Suites"
+            },
+            {
+                "key": "Free Internet",
+                "name": "Free Internet"
+            },
+            {
+                "key": "airport_transportation",
+                "name": "Airport transportation"
+            },
+            {
+                "key": "Wifi",
+                "name": "Wifi"
+            },
+            {
+                "key": "free_wireless_internet_in_room",
+                "name": "Free Wifi"
+            },
+            {
+                "key": "Paid Internet",
+                "name": "Paid Internet"
+            },
+            {
+                "key": "Dry Cleaning",
+                "name": "Dry Cleaning"
+            },
+            {
+                "key": "meeting_room",
+                "name": "Meeting rooms"
+            },
+            {
+                "key": "Non-Smoking Rooms",
+                "name": "Non-smoking rooms"
+            },
+            {
+                "key": "Laundry Service",
+                "name": "Laundry Service"
+            },
+            {
+                "key": "concierge_desk",
+                "name": "Concierge"
+            },
+            {
+                "key": "Banquet Room",
+                "name": "Banquet Room"
+            },
+            {
+                "key": "air_conditioning",
+                "name": "Air conditioning"
+            },
+            {
+                "key": "Family Rooms",
+                "name": "Family Rooms"
+            },
+            {
+                "key": "Multilingual Staff",
+                "name": "Multilingual Staff"
+            },
+            {
+                "key": "Smoking Rooms Available",
+                "name": "Smoking rooms available"
+            },
+            {
+                "key": "reduced_mobility_rooms",
+                "name": "Accessible rooms"
+            },
+            {
+                "key": "Refrigerator",
+                "name": "Refrigerator in room"
+            },
+            {
+                "key": "Minibar",
+                "name": "Minibar"
+            },
+            {
+                "key": "Conference Facilities",
+                "name": "Conference Facilities"
+            },
+            {
+                "key": "Babysitting",
+                "name": "Babysitting"
+            },
+            {
+                "key": "Safe",
+                "name": "Safe"
+            },
+            {
+                "key": "Swimup Bar",
+                "name": "Swimup Bar"
+            },
+            {
+                "key": "Flatscreen TV",
+                "name": "Flatscreen TV"
+            },
+            {
+                "key": "Breakfast Buffet",
+                "name": "Breakfast Buffet"
+            },
+            {
+                "key": "Indoor Pool",
+                "name": "Indoor pool"
+            },
+            {
+                "key": "Butler Service",
+                "name": "Butler Service"
+            },
+            {
+                "key": "Breakfast Available",
+                "name": "Breakfast Available"
+            },
+            {
+                "key": "Parking",
+                "name": "Parking"
+            },
+            {
+                "key": "Facilities for Disabled Guests",
+                "name": "Facilities for Disabled Guests"
+            },
+            {
+                "key": "Housekeeping",
+                "name": "Housekeeping"
+            },
+            {
+                "key": "Kids Stay Free",
+                "name": "Kids Stay Free"
+            },
+            {
+                "key": "Allergy-free Room",
+                "name": "Allergy-free Room"
+            },
+            {
+                "key": "Baggage Storage",
+                "name": "Baggage Storage"
+            },
+            {
+                "key": "Bath / Shower",
+                "name": "Bath / Shower"
+            },
+            {
+                "key": "Blackout Curtains",
+                "name": "Blackout Curtains"
+            },
+            {
+                "key": "Bottled Water",
+                "name": "Bottled Water"
+            },
+            {
+                "key": "Breakfast in the Room",
+                "name": "Breakfast in the Room"
+            },
+            {
+                "key": "Car Hire",
+                "name": "Car Hire"
+            },
+            {
+                "key": "24-Hour Check-in",
+                "name": "24-Hour Check-in"
+            },
+            {
+                "key": "Express Check-in / Check-out",
+                "name": "Express Check-in / Check-out"
+            },
+            {
+                "key": "Coffee Shop - Amenities",
+                "name": "Coffee Shop"
+            },
+            {
+                "key": "Coffee / Tea Maker",
+                "name": "Coffee / Tea Maker"
+            },
+            {
+                "key": "Currency Exchange",
+                "name": "Currency Exchange"
+            },
+            {
+                "key": "Desk",
+                "name": "Desk"
+            },
+            {
+                "key": "Doorperson",
+                "name": "Doorperson"
+            },
+            {
+                "key": "English - Amenities",
+                "name": "English"
+            },
+            {
+                "key": "Fitness / Spa Locker Rooms",
+                "name": "Fitness / Spa Locker Rooms"
+            },
+            {
+                "key": "Complimentary Toiletries",
+                "name": "Complimentary Toiletries"
+            },
+            {
+                "key": "24-Hour Front Desk",
+                "name": "24-Hour Front Desk"
+            },
+            {
+                "key": "Hair Dryer",
+                "name": "Hair Dryer"
+            },
+            {
+                "key": "Hindi",
+                "name": "Hindi"
+            },
+            {
+                "key": "Interconnected rooms available",
+                "name": "Interconnected room(s) available"
+            },
+            {
+                "key": "Ironing Service",
+                "name": "Ironing Service"
+            },
+            {
+                "key": "Kid-Friendly Buffet",
+                "name": "Kid-Friendly Buffet"
+            },
+            {
+                "key": "Newspaper",
+                "name": "Newspaper"
+            },
+            {
+                "key": "Seating Area",
+                "name": "Seating Area"
+            },
+            {
+                "key": "24-Hour Security",
+                "name": "24-Hour Security"
+            },
+            {
+                "key": "Shoeshine",
+                "name": "Shoeshine"
+            },
+            {
+                "key": "Soundproof Rooms",
+                "name": "Soundproof Rooms"
+            },
+            {
+                "key": "Taxi Service",
+                "name": "Taxi Service"
+            },
+            {
+                "key": "Telephone",
+                "name": "Telephone"
+            },
+            {
+                "key": "Valet Parking - Amenities",
+                "name": "Valet Parking"
+            },
+            {
+                "key": "VIP Room Facilities",
+                "name": "VIP Room Facilities"
+            },
+            {
+                "key": "Clothes Rack",
+                "name": "Clothes Rack"
+            },
+            {
+                "key": "Electric Kettle",
+                "name": "Electric Kettle"
+            },
+            {
+                "key": "Private Bathrooms",
+                "name": "Private Bathrooms"
+            },
+            {
+                "key": "Sofa",
+                "name": "Sofa"
+            },
+            {
+                "key": "Wardrobe / Closet",
+                "name": "Wardrobe / Closet"
+            }
+        ],
+        "photo_count": "557",
+        "has_review_draft": false,
+        "has_panoramic_photos": false,
+        "rating_histogram": {
+            "count_1": "20",
+            "count_2": "27",
+            "count_3": "70",
+            "count_4": "216",
+            "count_5": "1019"
+        },
+        "room_tips": [
+            {
+                "user": {
+                    "user_id": "3CEF60FC194A823A4CBE0D0470ED3388",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Oneinnocent",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.3CEF60FC194A823A4CBE0D0470ED3388",
+                    "points": "0",
+                    "created_time": "2022-08-07T02:52:47-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Never be late for breakfast... As its very tasty... So you can eat more... ",
+                "rating": "5",
+                "review_id": "868365698",
+                "id": "868365698",
+                "created_time": "2022-11-13T18:20:00-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "DC81E91B04CB00D9FE217DDDF1B42986",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "VinayakJ15",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/66/default-avatar-2020-53.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/66/default-avatar-2020-53.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.DC81E91B04CB00D9FE217DDDF1B42986",
+                    "points": "0",
+                    "created_time": "2012-06-16T03:53:01-0400",
+                    "locale": "en_US"
+                },
+                "type": "room_tip",
+                "text": "U can plan trip with family or Bussines purpose ",
+                "rating": "5",
+                "review_id": "868280068",
+                "id": "868280068",
+                "created_time": "2022-11-13T05:34:27-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "D573270D9B660649FF641FD578F89D42",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Abhilasha1992",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/1a/3c/86/abhilasha-c.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/1a/3c/86/abhilasha-c.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.D573270D9B660649FF641FD578F89D42",
+                    "points": "0",
+                    "created_time": "2015-06-15T06:23:30-0400",
+                    "locale": "en_US"
+                },
+                "type": "room_tip",
+                "text": "Would love non vegetarian food on the menu.",
+                "rating": "5",
+                "review_id": "867658909",
+                "id": "867658909",
+                "created_time": "2022-11-07T22:03:28-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "2343E47AB34D2BC361A3BB6DE448C735",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Prabhakar876",
+                    "user_location": {
+                        "name": "Mumbai, India",
+                        "id": "304554"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/2b/default-avatar-2020-52.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/2b/default-avatar-2020-52.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.2343E47AB34D2BC361A3BB6DE448C735",
+                    "points": "0",
+                    "created_time": "2019-09-12T07:50:10-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Very good hotel",
+                "rating": "5",
+                "review_id": "867515228",
+                "id": "867515228",
+                "created_time": "2022-11-06T18:13:33-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "ECA4CC51AF4B4CF9777EA0749742C6FA",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "anantharamakrishm",
+                    "user_location": {
+                        "name": "Chennai (Madras), India",
+                        "id": "304556"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/2e/70/93/avatar019.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/93/avatar019.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.ECA4CC51AF4B4CF9777EA0749742C6FA",
+                    "points": "0",
+                    "created_time": "2010-06-21T10:26:43-0400",
+                    "locale": "en_US"
+                },
+                "type": "room_tip",
+                "text": "Enjoy the yummy food, the pool and the gym. The people make it different",
+                "rating": "5",
+                "review_id": "849603851",
+                "id": "849603851",
+                "created_time": "2022-07-24T06:59:08-04:00"
+            }
+        ]
+    },
+    {
+        "location_id": "1975184",
+        "name": "WelcomHeritage Mani Mansion",
+        "latitude": "23.015385",
+        "longitude": "72.56488",
+        "num_reviews": "210",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Ahmedabad, Ahmedabad District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/9a/6c/f3/executive-room.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/9a/6c/f3/executive-room.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/9a/6c/f3/executive-room.jpg",
+                    "height": "1204"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/0e/9a/6c/f3/executive-room.jpg",
+                    "height": "616"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/9a/6c/f3/executive-room.jpg",
+                    "height": "331"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2017-03-07T05:14:09-0500",
+            "caption": "Executive Room",
+            "id": "245001459",
+            "helpful_votes": "0",
+            "published_date": "2017-03-07T05:14:09-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_hotel",
+        "autobroaden_label": "Ahmedabad Hotels",
+        "raw_ranking": "4.602817535400391",
+        "ranking_geo": "Ahmedabad",
+        "ranking_geo_id": "297608",
+        "ranking_position": "29",
+        "ranking_denominator": "583",
+        "ranking_category": "hotel",
+        "ranking": "#29 of 583 hotels in Ahmedabad",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.5898640518124121",
+        "distance_string": null,
+        "bearing": "southwest",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$51 - $77",
+        "hotel_class": "4.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "e2c64d0c-0409-475e-8aaf-af5dd67ffbd3",
+        "description": "Mani Mansion previously knowns as \"CORPORATE SUITES\" was born out of a vision to preserve the rich cultural heritage associated to the ancestral home of the Dalal family. From an ancestral haveli, the owners have suitably modified the property to evolve into one of the city's finest heritage hotels. Situated in the heart of the city, the grand haveli turned Heritage Hotel offers a serene ambience that allows every traveler to enjoy a comfortable home stay. With an array of rooms tastefully furnished to match the urbane demands of today's traveler, we at Mani Mansion take extra care to address all your needs for a comfortable staying experience. A first of its kind concept, the premises consists of 21 different Suites that come packed with unique features like a mini kitchenette to a complimentary Wi-Fi usage for all the guests. In spite of these urbane facilities, we guarantee all our guests personalized attention and a unique stay that equates to a home away from a home impression. But apart from these many facilities that will ensure your comfortable stay, we at Mani Mansion, offer you a unique opportunity to come and experience the grandeur of a heritage property. From a 25 feet ceiling and architecture that clearly speaks volume about the rich lineage of culture associated with the city of Ahmedabad to 70 year old fans, uniqueness is inherent in every feature at Mani Mansion. Staying at Mani Mansion keeps you away from the regular hustle-bustle in spite of being in the heart of the city. In fact, Mani Mansion has also received heritage property stature from the Govt. of Gujarat. We invite you to be a part of this exclusive experience by staying with us and enjoying the beauty and grandeur of one of Amdavad's finest properties.",
+        "web_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d1975184-Reviews-WelcomHeritage_Mani_Mansion-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g297608-d1975184-WelcomHeritage_Mani_Mansion-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Ahmedabad",
+                "abbrv": null,
+                "location_id": "297608"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Ahmedabad District",
+                "abbrv": null,
+                "location_id": "12385355"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Gujarat",
+                "abbrv": null,
+                "location_id": "297607"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "category": {
+            "key": "hotel",
+            "name": "Hotel"
+        },
+        "subcategory": [
+            {
+                "key": "hotel",
+                "name": "Hotel"
+            }
+        ],
+        "parent_display_name": "Ahmedabad",
+        "guide_count": "0",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+91 92276 43101",
+        "website": "http://www.manimansion.com",
+        "email": "info@manimansion.com",
+        "address_obj": {
+            "street1": "Paldi Cross Roads",
+            "street2": "Shantikunj, Behind Mehdi Nawaz Jung Hall, Beside Bank of India",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "postalcode": "380006"
+        },
+        "address": "Paldi Cross Roads Shantikunj, Behind Mehdi Nawaz Jung Hall, Beside Bank of India, Ahmedabad 380006 India",
+        "local_name": "WelcomHeritage Mani Mansion",
+        "local_address": "Paldi Cross Roads, Shantikunj, Behind Mehdi Nawaz Jung Hall, Beside Bank of India, 380006",
+        "local_lang_code": "en-IN",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": [
+            {
+                "key": "swimming_pool",
+                "name": "Pool"
+            },
+            {
+                "key": "high_speed_internet_in_room",
+                "name": "Internet"
+            },
+            {
+                "key": "suites",
+                "name": "Suites"
+            },
+            {
+                "key": "room_service",
+                "name": "Room service"
+            },
+            {
+                "key": "free_parking",
+                "name": "Free parking"
+            },
+            {
+                "key": "restaurant",
+                "name": "Restaurant"
+            },
+            {
+                "key": "Wifi",
+                "name": "Wifi"
+            },
+            {
+                "key": "free_wireless_internet_in_room",
+                "name": "Free Wifi"
+            },
+            {
+                "key": "Non-Smoking Rooms",
+                "name": "Non-smoking rooms"
+            },
+            {
+                "key": "Laundry Service",
+                "name": "Laundry Service"
+            },
+            {
+                "key": "air_conditioning",
+                "name": "Air conditioning"
+            },
+            {
+                "key": "Refrigerator",
+                "name": "Refrigerator in room"
+            },
+            {
+                "key": "Safe",
+                "name": "Safe"
+            },
+            {
+                "key": "Flatscreen TV",
+                "name": "Flatscreen TV"
+            },
+            {
+                "key": "Breakfast Buffet",
+                "name": "Breakfast Buffet"
+            },
+            {
+                "key": "Breakfast Available",
+                "name": "Breakfast Available"
+            },
+            {
+                "key": "Hindi",
+                "name": "Hindi"
+            },
+            {
+                "key": "Ironing Service",
+                "name": "Ironing Service"
+            },
+            {
+                "key": "Newspaper",
+                "name": "Newspaper"
+            },
+            {
+                "key": "24-Hour Security",
+                "name": "24-Hour Security"
+            },
+            {
+                "key": "Free Internet",
+                "name": "Free Internet"
+            },
+            {
+                "key": "wheelchair_access",
+                "name": "Wheelchair access"
+            },
+            {
+                "key": "airport_transportation",
+                "name": "Airport transportation"
+            },
+            {
+                "key": "free_breakfast",
+                "name": "Breakfast included"
+            },
+            {
+                "key": "Dry Cleaning",
+                "name": "Dry Cleaning"
+            },
+            {
+                "key": "meeting_room",
+                "name": "Meeting rooms"
+            },
+            {
+                "key": "fitness_center",
+                "name": "Fitness center"
+            },
+            {
+                "key": "concierge_desk",
+                "name": "Concierge"
+            },
+            {
+                "key": "Banquet Room",
+                "name": "Banquet Room"
+            },
+            {
+                "key": "Family Rooms",
+                "name": "Family Rooms"
+            },
+            {
+                "key": "Multilingual Staff",
+                "name": "Multilingual Staff"
+            },
+            {
+                "key": "Conference Facilities",
+                "name": "Conference Facilities"
+            },
+            {
+                "key": "non_smoking_hotel",
+                "name": "Non-smoking hotel"
+            },
+            {
+                "key": "Outdoor Pool",
+                "name": "Outdoor pool"
+            },
+            {
+                "key": "Parking",
+                "name": "Parking"
+            },
+            {
+                "key": "Facilities for Disabled Guests",
+                "name": "Facilities for Disabled Guests"
+            },
+            {
+                "key": "Housekeeping",
+                "name": "Housekeeping"
+            },
+            {
+                "key": "Bath / Shower",
+                "name": "Bath / Shower"
+            },
+            {
+                "key": "Bottled Water",
+                "name": "Bottled Water"
+            },
+            {
+                "key": "Cable / Satellite TV",
+                "name": "Cable / Satellite TV"
+            },
+            {
+                "key": "Car Hire",
+                "name": "Car Hire"
+            },
+            {
+                "key": "Coffee Shop - Amenities",
+                "name": "Coffee Shop"
+            },
+            {
+                "key": "Coffee / Tea Maker",
+                "name": "Coffee / Tea Maker"
+            },
+            {
+                "key": "Electric Kettle",
+                "name": "Electric Kettle"
+            },
+            {
+                "key": "English - Amenities",
+                "name": "English"
+            },
+            {
+                "key": "First Aid Kit",
+                "name": "First Aid Kit"
+            },
+            {
+                "key": "Complimentary Welcome Drink",
+                "name": "Complimentary Welcome Drink"
+            },
+            {
+                "key": "24-Hour Front Desk",
+                "name": "24-Hour Front Desk"
+            },
+            {
+                "key": "Outdoor Dining Area",
+                "name": "Outdoor Dining Area"
+            },
+            {
+                "key": "Outdoor Furniture",
+                "name": "Outdoor Furniture"
+            },
+            {
+                "key": "Patio",
+                "name": "Patio"
+            },
+            {
+                "key": "Private Bathrooms",
+                "name": "Private Bathrooms"
+            },
+            {
+                "key": "Telephone",
+                "name": "Telephone"
+            },
+            {
+                "key": "Umbrella",
+                "name": "Umbrella"
+            },
+            {
+                "key": "Wardrobe / Closet",
+                "name": "Wardrobe / Closet"
+            }
+        ],
+        "photo_count": "223",
+        "has_review_draft": false,
+        "has_panoramic_photos": false,
+        "rating_histogram": {
+            "count_1": "1",
+            "count_2": "4",
+            "count_3": "9",
+            "count_4": "50",
+            "count_5": "146"
+        },
+        "room_tips": [
+            {
+                "user": {
+                    "user_id": "AA8B45F27810753963DA1CF4E2B20FA1",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "kapil1971",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.AA8B45F27810753963DA1CF4E2B20FA1",
+                    "points": "0",
+                    "created_time": "2018-11-13T08:53:30-0500",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Choose room on first floor.",
+                "rating": "5",
+                "review_id": "752853070",
+                "id": "752853070",
+                "created_time": "2020-04-23T03:25:07-04:00"
+            },
+            {
+                "user": {
+                    "user_id": "3C060F5ADB5FD6BA73A1D092F54F7036",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Bajrangsingh",
+                    "user_location": {
+                        "name": "Jaipur, India",
+                        "id": "304555"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.3C060F5ADB5FD6BA73A1D092F54F7036",
+                    "points": "0",
+                    "created_time": "2013-07-13T10:56:05-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "if you need living room, go for suite booking, ",
+                "rating": "4",
+                "review_id": "750803143",
+                "id": "750803143",
+                "created_time": "2020-03-13T20:51:18-04:00"
+            },
+            {
+                "user": {
+                    "user_id": "0AE8113921875D8F42C1A8B11EAA5F7B",
+                    "type": "user",
+                    "first_name": "Gopi",
+                    "last_initial": "D",
+                    "name": "Gopi D",
+                    "member_id": "0",
+                    "username": "Gopi D",
+                    "user_location": {
+                        "name": "Germantown, Maryland, United States",
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.0AE8113921875D8F42C1A8B11EAA5F7B",
+                    "points": "0",
+                    "created_time": "2012-12-19T08:02:58-0500",
+                    "locale": "en_US"
+                },
+                "type": "room_tip",
+                "text": "we only went there to eat, so can't say anything about the rooms",
+                "rating": "5",
+                "review_id": "744141550",
+                "id": "744141550",
+                "created_time": "2020-02-10T06:20:33-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "AA8B45F27810753963DA1CF4E2B20FA1",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "kapil1971",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.AA8B45F27810753963DA1CF4E2B20FA1",
+                    "points": "0",
+                    "created_time": "2018-11-13T08:53:30-0500",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Keep standards as high as possible.",
+                "rating": "5",
+                "review_id": "733512079",
+                "id": "733512079",
+                "created_time": "2019-12-18T20:19:33-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "0441657E769A86652CFC8E8527DD7FBF",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "SamirTrivedi",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/60/default-avatar-2020-64.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/60/default-avatar-2020-64.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.0441657E769A86652CFC8E8527DD7FBF",
+                    "points": "0",
+                    "created_time": "2019-11-25T02:55:19-0500",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Rooms are good spacious except Airtel Network connectivity inside the room.",
+                "rating": "5",
+                "review_id": "728738442",
+                "id": "728738442",
+                "created_time": "2019-11-24T21:55:20-05:00"
+            }
+        ]
+    },
+    {
+        "location_id": "2432526",
+        "name": "Riverview Hotel",
+        "latitude": "23.026918",
+        "longitude": "72.57212",
+        "num_reviews": "461",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Ahmedabad, Ahmedabad District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/d0/a5/47/deluxe-room.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/d0/a5/47/deluxe-room.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/17/d0/a5/47/deluxe-room.jpg",
+                    "height": "683"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/d0/a5/47/deluxe-room.jpg",
+                    "height": "683"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/d0/a5/47/deluxe-room.jpg",
+                    "height": "367"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-06-06T03:04:26-0400",
+            "caption": "Deluxe Room",
+            "id": "399549767",
+            "helpful_votes": "0",
+            "published_date": "2019-06-06T03:04:26-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_hotel",
+        "autobroaden_label": "Ahmedabad Hotels",
+        "raw_ranking": "4.630863189697266",
+        "ranking_geo": "Ahmedabad",
+        "ranking_geo_id": "297608",
+        "ranking_position": "28",
+        "ranking_denominator": "583",
+        "ranking_category": "hotel",
+        "ranking": "#28 of 583 hotels in Ahmedabad",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.3747586578037994",
+        "distance_string": null,
+        "bearing": "north",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$29 - $69",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "cfa907a6-6ad6-4cbc-b139-17b7be375757",
+        "description": "Located in Ahmedabad’s downtown commercial area of Nehru Bridge, Ashram Road, on the banks of River Sabarmati, Always Hotel Riverview is a modern & contemporary 3 Star Hotel in the country’s fastest growing city. Well appointed, spacious rooms with parquet flooring & all modern amenities, it is ideal for both business & leisure traveler.Plan your next luxury stay at the Riverview Hotel is one of the best hotel in Ahmedabad near sabarmati riverfront, which is the perfect destination for budget stay in Ahmedabad. Riverview hotel is located near Ashram Road Ahmedabad",
+        "web_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d2432526-Reviews-Riverview_Hotel-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g297608-d2432526-Riverview_Hotel-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Ahmedabad",
+                "abbrv": null,
+                "location_id": "297608"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Ahmedabad District",
+                "abbrv": null,
+                "location_id": "12385355"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Gujarat",
+                "abbrv": null,
+                "location_id": "297607"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "category": {
+            "key": "hotel",
+            "name": "Hotel"
+        },
+        "subcategory": [
+            {
+                "key": "hotel",
+                "name": "Hotel"
+            }
+        ],
+        "parent_display_name": "Ahmedabad",
+        "guide_count": "0",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+91 79 4910 4910",
+        "website": "http://www.riverviewhotels.in/",
+        "email": "reservations@riverviewhotels.in",
+        "address_obj": {
+            "street1": "Nehru Bridge Corner",
+            "street2": "Near Sakar Vii , Opp Patang Hotel",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "postalcode": "380009"
+        },
+        "address": "Nehru Bridge Corner Near Sakar Vii , Opp Patang Hotel, Ahmedabad 380009 India",
+        "local_name": "Riverview Hotel",
+        "local_address": "Nehru Bridge Corner, Near Sakar Vii , Opp Patang Hotel, 380009",
+        "local_lang_code": "en-IN",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": [
+            {
+                "key": "free_parking",
+                "name": "Free parking"
+            },
+            {
+                "key": "restaurant",
+                "name": "Restaurant"
+            },
+            {
+                "key": "high_speed_internet_in_room",
+                "name": "Internet"
+            },
+            {
+                "key": "room_service",
+                "name": "Room service"
+            },
+            {
+                "key": "Wifi",
+                "name": "Wifi"
+            },
+            {
+                "key": "Public Wifi",
+                "name": "Public Wifi"
+            },
+            {
+                "key": "free_wireless_internet_in_room",
+                "name": "Free Wifi"
+            },
+            {
+                "key": "free_breakfast",
+                "name": "Breakfast included"
+            },
+            {
+                "key": "Dry Cleaning",
+                "name": "Dry Cleaning"
+            },
+            {
+                "key": "meeting_room",
+                "name": "Meeting rooms"
+            },
+            {
+                "key": "Laundry Service",
+                "name": "Laundry Service"
+            },
+            {
+                "key": "Banquet Room",
+                "name": "Banquet Room"
+            },
+            {
+                "key": "Safe",
+                "name": "Safe"
+            },
+            {
+                "key": "Flatscreen TV",
+                "name": "Flatscreen TV"
+            },
+            {
+                "key": "Rooftop Terrace",
+                "name": "Rooftop Terrace"
+            },
+            {
+                "key": "Breakfast Buffet",
+                "name": "Breakfast Buffet"
+            },
+            {
+                "key": "Parking",
+                "name": "Parking"
+            },
+            {
+                "key": "Housekeeping",
+                "name": "Housekeeping"
+            },
+            {
+                "key": "Kids Stay Free",
+                "name": "Kids Stay Free"
+            },
+            {
+                "key": "Allergy-free Room",
+                "name": "Allergy-free Room"
+            },
+            {
+                "key": "Baggage Storage",
+                "name": "Baggage Storage"
+            },
+            {
+                "key": "Bath / Shower",
+                "name": "Bath / Shower"
+            },
+            {
+                "key": "Blackout Curtains",
+                "name": "Blackout Curtains"
+            },
+            {
+                "key": "Bottled Water",
+                "name": "Bottled Water"
+            },
+            {
+                "key": "Coffee Shop - Amenities",
+                "name": "Coffee Shop"
+            },
+            {
+                "key": "Coffee / Tea Maker",
+                "name": "Coffee / Tea Maker"
+            },
+            {
+                "key": "Desk",
+                "name": "Desk"
+            },
+            {
+                "key": "English - Amenities",
+                "name": "English"
+            },
+            {
+                "key": "Complimentary Toiletries",
+                "name": "Complimentary Toiletries"
+            },
+            {
+                "key": "24-Hour Front Desk",
+                "name": "24-Hour Front Desk"
+            },
+            {
+                "key": "Hair Dryer",
+                "name": "Hair Dryer"
+            },
+            {
+                "key": "Ironing Service",
+                "name": "Ironing Service"
+            },
+            {
+                "key": "Private Check-in / Check-out",
+                "name": "Private Check-in / Check-out"
+            },
+            {
+                "key": "Seating Area",
+                "name": "Seating Area"
+            },
+            {
+                "key": "Secured Parking",
+                "name": "Secured Parking"
+            },
+            {
+                "key": "Taxi Service",
+                "name": "Taxi Service"
+            },
+            {
+                "key": "Telephone",
+                "name": "Telephone"
+            },
+            {
+                "key": "Free Internet",
+                "name": "Free Internet"
+            },
+            {
+                "key": "wheelchair_access",
+                "name": "Wheelchair access"
+            },
+            {
+                "key": "airport_transportation",
+                "name": "Airport transportation"
+            },
+            {
+                "key": "Non-Smoking Rooms",
+                "name": "Non-smoking rooms"
+            },
+            {
+                "key": "business_services",
+                "name": "Business center"
+            },
+            {
+                "key": "concierge_desk",
+                "name": "Concierge"
+            },
+            {
+                "key": "Family Rooms",
+                "name": "Family Rooms"
+            },
+            {
+                "key": "Conference Facilities",
+                "name": "Conference Facilities"
+            },
+            {
+                "key": "Butler Service",
+                "name": "Butler Service"
+            },
+            {
+                "key": "Breakfast Available",
+                "name": "Breakfast Available"
+            },
+            {
+                "key": "Facilities for Disabled Guests",
+                "name": "Facilities for Disabled Guests"
+            },
+            {
+                "key": "ATM On Site",
+                "name": "ATM On Site"
+            },
+            {
+                "key": "Bathrobes",
+                "name": "Bathrobes"
+            },
+            {
+                "key": "BBQ Facilities",
+                "name": "BBQ Facilities"
+            },
+            {
+                "key": "Bicycle Tours",
+                "name": "Bicycle Tours"
+            },
+            {
+                "key": "Boating",
+                "name": "Boating"
+            },
+            {
+                "key": "Breakfast in the Room",
+                "name": "Breakfast in the Room"
+            },
+            {
+                "key": "Cable / Satellite TV",
+                "name": "Cable / Satellite TV"
+            },
+            {
+                "key": "Car Hire",
+                "name": "Car Hire"
+            },
+            {
+                "key": "24-Hour Check-in",
+                "name": "24-Hour Check-in"
+            },
+            {
+                "key": "Express Check-in / Check-out",
+                "name": "Express Check-in / Check-out"
+            },
+            {
+                "key": "Children's Television Networks",
+                "name": "Children's Television Networks"
+            },
+            {
+                "key": "Clothes Rack",
+                "name": "Clothes Rack"
+            },
+            {
+                "key": "Currency Exchange",
+                "name": "Currency Exchange"
+            },
+            {
+                "key": "Electric Kettle",
+                "name": "Electric Kettle"
+            },
+            {
+                "key": "First Aid Kit",
+                "name": "First Aid Kit"
+            },
+            {
+                "key": "Complimentary Welcome Drink",
+                "name": "Complimentary Welcome Drink"
+            },
+            {
+                "key": "Free Wifi in the Business Center",
+                "name": "Free Wifi in the Business Center"
+            },
+            {
+                "key": "Free Wired Internet in the Business Center",
+                "name": "Free Wired Internet in the Business Center"
+            },
+            {
+                "key": "Hindi",
+                "name": "Hindi"
+            },
+            {
+                "key": "Iron",
+                "name": "Iron"
+            },
+            {
+                "key": "Kitchenware",
+                "name": "Kitchenware"
+            },
+            {
+                "key": "Landmark View",
+                "name": "Landmark View"
+            },
+            {
+                "key": "Laptop Safe",
+                "name": "Laptop Safe"
+            },
+            {
+                "key": "Nepali - Amenities",
+                "name": "Nepali"
+            },
+            {
+                "key": "Newspaper",
+                "name": "Newspaper"
+            },
+            {
+                "key": "Parking Garage",
+                "name": "Parking Garage"
+            },
+            {
+                "key": "Private Bathrooms",
+                "name": "Private Bathrooms"
+            },
+            {
+                "key": "24-Hour Security",
+                "name": "24-Hour Security"
+            },
+            {
+                "key": "Shared Lounge / TV Area",
+                "name": "Shared Lounge / TV Area"
+            },
+            {
+                "key": "Sofa",
+                "name": "Sofa"
+            },
+            {
+                "key": "Sofa Bed",
+                "name": "Sofa Bed"
+            },
+            {
+                "key": "Soundproof Rooms",
+                "name": "Soundproof Rooms"
+            },
+            {
+                "key": "Special Diet Menus",
+                "name": "Special Diet Menus"
+            },
+            {
+                "key": "Street Parking - Amenities",
+                "name": "Street Parking"
+            },
+            {
+                "key": "Urdu",
+                "name": "Urdu"
+            },
+            {
+                "key": "Valet Parking - Amenities",
+                "name": "Valet Parking"
+            },
+            {
+                "key": "VIP Room Facilities",
+                "name": "VIP Room Facilities"
+            },
+            {
+                "key": "Wake Up Service / Alarm Clock",
+                "name": "Wake Up Service / Alarm Clock"
+            },
+            {
+                "key": "Walk-in Shower",
+                "name": "Walk-in Shower"
+            },
+            {
+                "key": "Wardrobe / Closet",
+                "name": "Wardrobe / Closet"
+            },
+            {
+                "key": "Photo Copier / Fax In Business Center",
+                "name": "Photo Copier / Fax In Business Center"
+            }
+        ],
+        "photo_count": "188",
+        "has_review_draft": false,
+        "has_panoramic_photos": false,
+        "rating_histogram": {
+            "count_1": "15",
+            "count_2": "7",
+            "count_3": "21",
+            "count_4": "96",
+            "count_5": "322"
+        },
+        "room_tips": [
+            {
+                "user": {
+                    "user_id": "1F2052084C22D510F70979F1FC7BB8D5",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Sureshsaal",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.1F2052084C22D510F70979F1FC7BB8D5",
+                    "points": "0",
+                    "created_time": "2020-08-18T09:40:58-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "I m always stay  in hotel river view.. ",
+                "rating": "5",
+                "review_id": "870912708",
+                "id": "870912708",
+                "created_time": "2022-12-06T21:08:48-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "05825AB805DADE0CBDE2D335979EE59A",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Quest00397928403",
+                    "user_location": {
+                        "name": "Ahmedabad, India",
+                        "id": "297608"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/77/ae/default-avatar-2020-2.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/77/ae/default-avatar-2020-2.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.05825AB805DADE0CBDE2D335979EE59A",
+                    "points": "0",
+                    "created_time": "2022-08-07T09:39:33-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Do visit before booking directly :)",
+                "rating": "2",
+                "review_id": "852569201",
+                "id": "852569201",
+                "created_time": "2022-08-07T05:39:59-04:00"
+            },
+            {
+                "user": {
+                    "user_id": "376D8B0329C7CF0ED7B72BE17301932C",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "mrophone",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/ea/default-avatar-2020-63.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/ea/default-avatar-2020-63.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.376D8B0329C7CF0ED7B72BE17301932C",
+                    "points": "0",
+                    "created_time": "2021-11-18T06:19:46-0500",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Take rooms on higher floor, so you will get a partial river front view",
+                "rating": "5",
+                "review_id": "819164604",
+                "id": "819164604",
+                "created_time": "2021-11-18T01:45:09-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "859548B54C2E41818D6F000031DDD505",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Paradise00667405647",
+                    "user_location": {
+                        "name": "New Delhi, India",
+                        "id": "304551"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/32/default-avatar-2020-12.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/32/default-avatar-2020-12.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.859548B54C2E41818D6F000031DDD505",
+                    "points": "0",
+                    "created_time": "2021-09-29T10:38:38-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "It is at the edge of nehru bridge.. easy to locate and reach.",
+                "rating": "5",
+                "review_id": "812320590",
+                "id": "812320590",
+                "created_time": "2021-09-29T06:48:10-04:00"
+            },
+            {
+                "user": {
+                    "user_id": "082372979ADDA8271B8BDAEC0B4D3997",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Mspureon",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.082372979ADDA8271B8BDAEC0B4D3997",
+                    "points": "0",
+                    "created_time": "2021-08-16T01:15:32-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Very flexible Management looks like staying in Home",
+                "rating": "5",
+                "review_id": "804157282",
+                "id": "804157282",
+                "created_time": "2021-08-15T21:16:06-04:00"
+            }
+        ]
+    },
+    {
+        "location_id": "1600861",
+        "name": "Four Points by Sheraton Ahmedabad",
+        "latitude": "23.022448",
+        "longitude": "72.56758",
+        "num_reviews": "2105",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Ahmedabad, Ahmedabad District, Gujarat",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/9d/b9/55/deluxe-room.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/9d/b9/55/deluxe-room.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/9d/b9/55/deluxe-room.jpg",
+                    "height": "853"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/21/9d/b9/55/deluxe-room.jpg",
+                    "height": "682"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/9d/b9/55/deluxe-room.jpg",
+                    "height": "367"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-12-15T08:14:54-0500",
+            "caption": "Deluxe Room",
+            "id": "563984725",
+            "helpful_votes": "0",
+            "published_date": "2021-12-15T08:14:54-0500",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_hotel",
+        "autobroaden_label": "Ahmedabad Hotels",
+        "raw_ranking": "4.871710777282715",
+        "ranking_geo": "Ahmedabad",
+        "ranking_geo_id": "297608",
+        "ranking_position": "3",
+        "ranking_denominator": "583",
+        "ranking_category": "hotel",
+        "ranking": "#3 of 583 hotels in Ahmedabad",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.24301717995363556",
+        "distance_string": null,
+        "bearing": "west",
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$62 - $90",
+        "hotel_class": "4.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": [
+                {
+                    "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183962459&geo=1600861&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=251609065&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZRiT7aaK72yVstXlotT2Q4PySJOacdNOrwt-GCjorgaU&dated=true&bapid=1&cs=168eb0f961c79298278894f6d85ae6bb8",
+                    "label": "Hotel website",
+                    "type": "url"
+                },
+                {
+                    "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183962459&geo=1600861&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CDM&ttype=CLDealsMobile&tm=251609065&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZ77E-9cbAA63WLAKL5-UrpDFHJCRuK2JAVq8BteVNsts&dated=true&bapid=2&cs=1b9507c1b58969d990a61eb6911c6deb4",
+                    "label": "Hotel deals",
+                    "type": "url_deals"
+                },
+                {
+                    "value": "1 (844) 631-0595",
+                    "label": "Phone number",
+                    "type": "phone",
+                    "offerless_commerce_track_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183962459&geo=1600861&from=api&area=&slot=3&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=CLTM&tm=251609065&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkQJwO9qXittalDBRLxTh6tuAta636rhUEM-XMyUCABjaN1YjoS3Ax_RolHGg14sr7Q&bapid=3&cs=1f69f623b45d09e93c4c041639f67744f"
+                }
+            ]
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": [
+                {
+                    "headline": "Christmas Staycation",
+                    "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.1600861-a_offer.9607056-a_trafficSource.ba",
+                    "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183962459&geo=1600861&from=api&area=OID:9607056%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=251609065&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkQJwO9qXittalDBRLxTh6ts8GmffjDa6ojEX5v9DzqwGrMkZ4m8RpJCkiVYZodnMEA&cs=1cb930f22c85a945d6e5e367cb260a942",
+                    "coupon_id": null,
+                    "coupon_type": "PACKAGE",
+                    "bl_language": null,
+                    "description": "",
+                    "valid_start_date": "2022-12-16T00:00:00-05:00",
+                    "valid_end_date": "2022-12-29T00:00:00-05:00",
+                    "valid_days": "Offer valid on the following days: .",
+                    "taxes": null
+                }
+            ]
+        },
+        "listing_key": "56aaf4a3-022e-410b-9db8-ddaaa652e6d1",
+        "description": "Description: Get what you’re looking for with the style and service you want, all at a great price. We have what matters most to you, like a comfortable bed, a delicious breakfast and fresh coffee. You will also find high speed internet access, and delicious, simple food. Four Points by Sheraton Ahmedabad has a great location in the heart of the city. We are just 10km from Ahmedabad airport, 3km from the railway station and 1.5km from Paldi bus station. Shopping is just minutes away from our door. Our well-equipped meeting rooms and pre-function area totals 288 square meters. Let our team of dedicated professionals work with you to host your special event. Whether you are in town for business or leisure, convenience, comfort and value are everywhere at Four Points by Sheraton Ahmedabad.",
+        "web_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d1600861-Reviews-Four_Points_by_Sheraton_Ahmedabad-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g297608-d1600861-Four_Points_by_Sheraton_Ahmedabad-Ahmedabad_Ahmedabad_District_Gujarat.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Ahmedabad",
+                "abbrv": null,
+                "location_id": "297608"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Ahmedabad District",
+                "abbrv": null,
+                "location_id": "12385355"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Gujarat",
+                "abbrv": null,
+                "location_id": "297607"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "category": {
+            "key": "hotel",
+            "name": "Hotel"
+        },
+        "subcategory": [
+            {
+                "key": "hotel",
+                "name": "Hotel"
+            }
+        ],
+        "parent_display_name": "Ahmedabad",
+        "guide_count": "0",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "18446310595",
+        "website": "https://www.marriott.com/en-us/hotels/amdfp-four-points-by-sheraton-ahmedabad/overview/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe&y_source=1_Mjg3MDAwNC03NjktbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+        "email": "Fourpoints.ahmedabad@fourpoints.com",
+        "address_obj": {
+            "street1": "Opposite Gujarat College",
+            "street2": "Ellis Bridge",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "postalcode": "380006"
+        },
+        "address": "Opposite Gujarat College Ellis Bridge, Ahmedabad 380006 India",
+        "local_name": "Four Points by Sheraton Ahmedabad",
+        "local_address": "Opposite Gujarat College, Ellis Bridge, 380006",
+        "local_lang_code": "en-IN",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": [
+            {
+                "key": "high_speed_internet_in_room",
+                "name": "Internet"
+            },
+            {
+                "key": "Free Internet",
+                "name": "Free Internet"
+            },
+            {
+                "key": "free_parking",
+                "name": "Free parking"
+            },
+            {
+                "key": "restaurant",
+                "name": "Restaurant"
+            },
+            {
+                "key": "Wifi",
+                "name": "Wifi"
+            },
+            {
+                "key": "free_wireless_internet_in_room",
+                "name": "Free Wifi"
+            },
+            {
+                "key": "fitness_center",
+                "name": "Fitness center"
+            },
+            {
+                "key": "room_service",
+                "name": "Room service"
+            },
+            {
+                "key": "business_services",
+                "name": "Business center"
+            },
+            {
+                "key": "suites",
+                "name": "Suites"
+            },
+            {
+                "key": "airport_transportation",
+                "name": "Airport transportation"
+            },
+            {
+                "key": "Public Wifi",
+                "name": "Public Wifi"
+            },
+            {
+                "key": "concierge_desk",
+                "name": "Concierge"
+            },
+            {
+                "key": "meeting_room",
+                "name": "Meeting rooms"
+            },
+            {
+                "key": "wheelchair_access",
+                "name": "Wheelchair access"
+            },
+            {
+                "key": "Laundry Service",
+                "name": "Laundry Service"
+            },
+            {
+                "key": "Banquet Room",
+                "name": "Banquet Room"
+            },
+            {
+                "key": "Dry Cleaning",
+                "name": "Dry Cleaning"
+            },
+            {
+                "key": "Non-Smoking Rooms",
+                "name": "Non-smoking rooms"
+            },
+            {
+                "key": "air_conditioning",
+                "name": "Air conditioning"
+            },
+            {
+                "key": "Family Rooms",
+                "name": "Family Rooms"
+            },
+            {
+                "key": "Multilingual Staff",
+                "name": "Multilingual Staff"
+            },
+            {
+                "key": "reduced_mobility_rooms",
+                "name": "Accessible rooms"
+            },
+            {
+                "key": "Refrigerator",
+                "name": "Refrigerator in room"
+            },
+            {
+                "key": "Minibar",
+                "name": "Minibar"
+            },
+            {
+                "key": "Conference Facilities",
+                "name": "Conference Facilities"
+            },
+            {
+                "key": "Safe",
+                "name": "Safe"
+            },
+            {
+                "key": "Flatscreen TV",
+                "name": "Flatscreen TV"
+            },
+            {
+                "key": "Breakfast Buffet",
+                "name": "Breakfast Buffet"
+            },
+            {
+                "key": "Free Airport Transportation",
+                "name": "Free airport transportation"
+            },
+            {
+                "key": "Facilities for Disabled Guests",
+                "name": "Facilities for Disabled Guests"
+            },
+            {
+                "key": "Housekeeping",
+                "name": "Housekeeping"
+            },
+            {
+                "key": "Baggage Storage",
+                "name": "Baggage Storage"
+            },
+            {
+                "key": "Breakfast in the Room",
+                "name": "Breakfast in the Room"
+            },
+            {
+                "key": "Car Hire",
+                "name": "Car Hire"
+            },
+            {
+                "key": "24-Hour Check-in",
+                "name": "24-Hour Check-in"
+            },
+            {
+                "key": "Express Check-in / Check-out",
+                "name": "Express Check-in / Check-out"
+            },
+            {
+                "key": "Coffee / Tea Maker",
+                "name": "Coffee / Tea Maker"
+            },
+            {
+                "key": "Currency Exchange",
+                "name": "Currency Exchange"
+            },
+            {
+                "key": "Desk",
+                "name": "Desk"
+            },
+            {
+                "key": "Doorperson",
+                "name": "Doorperson"
+            },
+            {
+                "key": "English - Amenities",
+                "name": "English"
+            },
+            {
+                "key": "Free Private Parking Nearby",
+                "name": "Free Private Parking Nearby"
+            },
+            {
+                "key": "Complimentary Toiletries",
+                "name": "Complimentary Toiletries"
+            },
+            {
+                "key": "24-Hour Front Desk",
+                "name": "24-Hour Front Desk"
+            },
+            {
+                "key": "Hair Dryer",
+                "name": "Hair Dryer"
+            },
+            {
+                "key": "Hindi",
+                "name": "Hindi"
+            },
+            {
+                "key": "Interconnected rooms available",
+                "name": "Interconnected room(s) available"
+            },
+            {
+                "key": "Newspaper",
+                "name": "Newspaper"
+            },
+            {
+                "key": "Seating Area",
+                "name": "Seating Area"
+            },
+            {
+                "key": "24-Hour Security",
+                "name": "24-Hour Security"
+            },
+            {
+                "key": "Shoeshine",
+                "name": "Shoeshine"
+            },
+            {
+                "key": "Taxi Service",
+                "name": "Taxi Service"
+            },
+            {
+                "key": "Telephone",
+                "name": "Telephone"
+            },
+            {
+                "key": "Valet Parking - Amenities",
+                "name": "Valet Parking"
+            },
+            {
+                "key": "Breakfast Available",
+                "name": "Breakfast Available"
+            },
+            {
+                "key": "Cable / Satellite TV",
+                "name": "Cable / Satellite TV"
+            },
+            {
+                "key": "Electric Kettle",
+                "name": "Electric Kettle"
+            },
+            {
+                "key": "On-Demand Movies",
+                "name": "On-Demand Movies"
+            },
+            {
+                "key": "Private Bathrooms",
+                "name": "Private Bathrooms"
+            },
+            {
+                "key": "Radio",
+                "name": "Radio"
+            },
+            {
+                "key": "Tile / Marble Floor",
+                "name": "Tile / Marble Floor"
+            },
+            {
+                "key": "Walk-in Shower",
+                "name": "Walk-in Shower"
+            },
+            {
+                "key": "Wardrobe / Closet",
+                "name": "Wardrobe / Closet"
+            }
+        ],
+        "owner_website": "/Commerce?p=Marriott_BA&src=183962459&geo=1600861&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=251609065&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZRiT7aaK72yVstXlotT2Q4PySJOacdNOrwt-GCjorgaU&dated=true&bapid=1&cs=168eb0f961c79298278894f6d85ae6bb8",
+        "photo_count": "425",
+        "has_review_draft": false,
+        "has_panoramic_photos": false,
+        "rating_histogram": {
+            "count_1": "20",
+            "count_2": "20",
+            "count_3": "67",
+            "count_4": "448",
+            "count_5": "1551"
+        },
+        "room_tips": [
+            {
+                "user": {
+                    "user_id": "6158B2EBB4C7F972318F71A2D062F74E",
+                    "type": "user",
+                    "first_name": "DAULAT",
+                    "last_initial": "S",
+                    "name": "DAULAT S",
+                    "member_id": "0",
+                    "username": "DAULAT S",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.6158B2EBB4C7F972318F71A2D062F74E",
+                    "points": "0",
+                    "created_time": "2017-07-14T17:22:03-0400",
+                    "locale": "en_US"
+                },
+                "type": "room_tip",
+                "text": "You will always be taken care of because manager cares about you.",
+                "rating": "5",
+                "review_id": "872064706",
+                "id": "872064706",
+                "created_time": "2022-12-17T23:45:00-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "6D51CE7EEB31E2412AD756902C833CA6",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "NoopurG11",
+                    "user_location": {
+                        "name": "India",
+                        "id": "293860"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.6D51CE7EEB31E2412AD756902C833CA6",
+                    "points": "0",
+                    "created_time": "2013-11-24T02:43:22-0500",
+                    "locale": "en_UK"
+                },
+                "type": "room_tip",
+                "text": "Nice place in the ❤️ of the city ",
+                "rating": "5",
+                "review_id": "870689264",
+                "id": "870689264",
+                "created_time": "2022-12-04T19:07:13-05:00"
+            },
+            {
+                "user": {
+                    "user_id": "961CED0A3AB0EF30FD1CD6613D262990",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "Excursion11289474569",
+                    "user_location": {
+                        "name": null,
+                        "id": null
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/9c/default-avatar-2020-14.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/9c/default-avatar-2020-14.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.961CED0A3AB0EF30FD1CD6613D262990",
+                    "points": "0",
+                    "created_time": "2022-10-31T13:15:43-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Yes you can have delicious food, good service and most important good staff, they are very nice, very helpful and very caring.",
+                "rating": "5",
+                "review_id": "866715034",
+                "id": "866715034",
+                "created_time": "2022-10-31T09:15:55-04:00"
+            },
+            {
+                "user": {
+                    "user_id": "12BAB054A5A3B386CF040FAADC9CC8DD",
+                    "type": "user",
+                    "first_name": "Ashwin",
+                    "last_initial": "V",
+                    "name": "Ashwin V",
+                    "member_id": "0",
+                    "username": "Ashwin V",
+                    "user_location": {
+                        "name": "Hyderabad, India",
+                        "id": "297586"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/cc/64/8d/ashwin-v.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/cc/64/8d/ashwin-v.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.12BAB054A5A3B386CF040FAADC9CC8DD",
+                    "points": "0",
+                    "created_time": "2015-11-07T22:34:16-0500",
+                    "locale": "en_US"
+                },
+                "type": "room_tip",
+                "text": "Mouth Watering Food & Excellent Location ",
+                "rating": "5",
+                "review_id": "865382867",
+                "id": "865382867",
+                "created_time": "2022-10-21T04:27:44-04:00"
+            },
+            {
+                "user": {
+                    "user_id": "A2D56091E45FE5952DAA14B9240BF9EA",
+                    "type": "user",
+                    "first_name": null,
+                    "last_initial": null,
+                    "name": null,
+                    "member_id": "0",
+                    "username": "reenar78",
+                    "user_location": {
+                        "name": "Chandigarh, India",
+                        "id": "297596"
+                    },
+                    "avatar": {
+                        "small": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/32/default-avatar-2020-12.jpg"
+                        },
+                        "large": {
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/32/default-avatar-2020-12.jpg"
+                        }
+                    },
+                    "link": "https://www.tripadvisor.com/MemberProfile-a_uid.A2D56091E45FE5952DAA14B9240BF9EA",
+                    "points": "0",
+                    "created_time": "2015-04-11T04:22:44-0400",
+                    "locale": "en_IN"
+                },
+                "type": "room_tip",
+                "text": "Nothing every was just perfect.",
+                "rating": "5",
+                "review_id": "844926857",
+                "id": "844926857",
+                "created_time": "2022-06-27T06:19:08-04:00"
+            }
+        ]
+    }
+]

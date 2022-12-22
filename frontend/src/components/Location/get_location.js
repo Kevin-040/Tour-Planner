@@ -5,8 +5,8 @@ import { useLocation} from 'react-router-dom'
 
 export default function Location() {
   const place = useLocation().state.place;
-  // const startdate = useLocation().state.startdate;
-  // const enddate = useLocation().state.enddate;
+  const startdate = useLocation().state.startdate;
+  const enddate = useLocation().state.enddate;
 
   const [locationData, setlocationData] = useState([]); 
 
@@ -33,8 +33,8 @@ export default function Location() {
     
       const res = await axios.request(options)
       setlocationData(res.data.data.Typeahead_autocomplete.results);    
-      console.log("Function called")
-      console.log(res.data.data.Typeahead_autocomplete.results)
+      console.log("Location Function called")
+      // console.log(res.data.data.Typeahead_autocomplete.results)
 
     
     }
@@ -144,7 +144,9 @@ export default function Location() {
                                 hover:bg-sky-600 hover:text-sky-100">
                               Restaurants
                             </Link>
-                            <button
+                            <Link
+                            to="/plan"
+                            state={{ startdate: startdate, enddate: enddate}}
                               class="
                                 inline-grid
                                 pl-4
@@ -157,7 +159,7 @@ export default function Location() {
                                 text-sky-700
                                 hover:bg-sky-600 hover:text-sky-100">
                               Plan Tour
-                            </button>
+                            </Link>
                           </div>
                     </div>
             </div>

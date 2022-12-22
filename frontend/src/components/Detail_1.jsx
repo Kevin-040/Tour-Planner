@@ -18,7 +18,7 @@ const Detail01 = () => {
         yy: date.getFullYear().toString().slice(-2),
         yyyy: date.getFullYear()
   }
-    return format.replace(/mm|dd|yy|yyy/gi, matched => map[matched])
+    return format.replace(/mm|dd|yyyy/gi, matched => map[matched])
   }
 
   // Function to add days from date

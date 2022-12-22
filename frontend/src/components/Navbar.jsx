@@ -20,20 +20,21 @@ const Navbar = ({setToken,isLoggedIn,setIsLoggedIn}) => {
           <Link to='/dest' state={{ locationID: '297608'}}>Attractions</Link>
         </li>
         <li>
-          <Link to='/hotel' state={{ locationID: '297608', locationName: "Shimla"}}>Hotels</Link>
+          <Link to='/hotel' state={{ locationID: '297608', locationName: "Ahmedabad"}}>Hotels</Link>
         </li>
         <li>
           <Link to='/location' state={{ place: 'ahmedabad'}}>Locations</Link>
         </li>
         <li>
-          <Link to='/translate'>Translate</Link>
-        </li>
-        <li>
           <Link to='/rest'state={{ locationID: '297608'}}>Restaurant</Link>
         </li>
-        {/* <li>
-          <Link to='/signup'>Signup</Link>
-        </li> */}
+        <li>
+          <Link to='/translate'>Translate</Link>
+        </li>
+        
+        <li>
+          <Link to='/plan' state={{ startdate: '2022-12-24', enddate: '2022-12-28'}}>TourPlan</Link>
+        </li>
 
       </ul>
       <div className='hidden md:flex'>
